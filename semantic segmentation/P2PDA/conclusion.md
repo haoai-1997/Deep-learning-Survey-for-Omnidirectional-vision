@@ -2,7 +2,7 @@
 
 - conference: IEEE Transactions on Intelligent Transportation Systems, 2021
 
-- dataset: proposed dataset: DensePASS and Cityscapes, WildDash.
+- dataset: the proposed DensePASS and Cityscapes, WildDash.
 
 - abstract: Firstly, this work builds a novel dataset DensePASS for semantic segmentation in 360 degree domain. Secondly, this paper introduces P2PDA - a generic framework for PINHOLE→PANORAMIC semantic segmentation which addresses the challenge of domain divergence with different variants of attention-augmented domain adaptation modules, enabling the transfer in output-, feature-, and feature confidence spaces. P2PDA intertwines uncertainty-aware adaptation using confi- dence values regulated on-the-fly through attention heads with discrepant predictions. The proposed method performs greater on the novel dataset DensePASS than other baseline methods.
 
