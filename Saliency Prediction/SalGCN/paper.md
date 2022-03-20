@@ -15,7 +15,7 @@
 - Results：
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SalGCN_exp1.png" width="50%" height="50%">
 
--Analysis: 
+-Analysis: This work utilizes Icosahedral Pixelation to project ERP onto a spherical graph and extract features directly on the constructed graph, which avoids problems in ERP and CMP.
 
 
 
