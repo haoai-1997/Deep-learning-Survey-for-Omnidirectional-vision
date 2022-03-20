@@ -1,6 +1,6 @@
 # PaperList
 
-## [3D Scene](3D\ Scene)
+## [3D Scene](3D\Scene)
 
 - See360: Novel Panoramic View Interpolation
 
