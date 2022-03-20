@@ -13,8 +13,8 @@
 
 - Framework:
 
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/scene%20understanding/RGCN_framework.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/depth%20estimation/DPT_framework.png)
 
 - results:
 
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/scene%20understanding/RGCN_result.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/depth%20estimation/DPT_result.png)
