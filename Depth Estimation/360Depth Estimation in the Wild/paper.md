@@ -18,7 +18,9 @@ Our method predicts consistent global depth while maintaining sharp details at l
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SegFuse.png)
 
 - loss function
+
 inverse Huber loss
+
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Huber_loss_func_1.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Huber_loss_func_2.png)
 
