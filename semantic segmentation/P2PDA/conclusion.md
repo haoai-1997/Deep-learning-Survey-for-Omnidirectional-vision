@@ -13,13 +13,21 @@
 (4)With the DANet baseline, our P2PDA framework achieves +13.5% and +16.2% mIoU gains by adapting from Cityscapes and further adding WildDash.
 
 - Framework:
+
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/semantic%20Segmentation/P2PDA_framework.png)
+
 - RCDAM module
+
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/semantic%20Segmentation/P2PDA_RCDAM.png)
+
 - SDAM module
+
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/semantic%20Segmentation/P2PDA_SDAM.png)
+
 - ADAM module
+
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/semantic%20Segmentation/P2PDA_ADAM.png)
 
 - results:
+
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/semantic%20Segmentation/P2PDA_result.png)
