@@ -18,5 +18,7 @@
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/see360_exp_1.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/see360_exp_2.png)
 
+- future work: In future work, we plan to explore the extension of See360 to combine both 2D and 3D information for high-resolution images/videos rendering.
+
 
 
