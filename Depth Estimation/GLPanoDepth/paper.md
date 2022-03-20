@@ -18,8 +18,8 @@ To preserve important local features, we further design a convolution-based bran
 
 - loss function
 
-BerHu loss
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/BerHuloss.png)
+  BerHu loss
+  ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/BerHuloss.png)
 
 - result:
 - ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/GLPanoDepth_result.png)
