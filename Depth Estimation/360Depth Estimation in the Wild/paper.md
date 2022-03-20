@@ -25,6 +25,7 @@ inverse Huber loss
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Huber_loss_func_2.png)
 
 - result:
+
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/360DataGen.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SegFuse_result.png)
 
