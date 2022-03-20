@@ -12,10 +12,10 @@
 
 - structure: Generative model
 
-![image](https://github.com/VLISLAB/360-DL-Survey/Images/Pano2CAD.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Pano2CAD.png)
 
 - results：
-![image](https://github.com/VLISLAB/360-DL-Survey/Images/Pano2CAD_result.png)
-![image](https://github.com/VLISLAB/360-DL-Survey/Images/Pano2CAD_sundataset.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Pano2CAD_result.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Pano2CAD_sundataset.png)
 
 -analysis: （对文章的分析）
