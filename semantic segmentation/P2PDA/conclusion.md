@@ -2,7 +2,7 @@
 
 - conference: IEEE Transactions on Intelligent Transportation Systems, 2021
 
-- dataset: three well-known benchmark datasets -- Stanford2D3D, Matterport3D, 360D
+- dataset: DensePASS
 
 - abstract: the paper proposes a 360 monocular depth estimation pipeline - OmniFusion - to tackle the spherical distortion issue. And we propose a new framework to handle the discrepancy between patch-wise predictions. An iterative depth refinement mechanism is introduced to further refine the estimated depth based on the more accurate geometric features.
 
@@ -13,7 +13,7 @@
 (4)We propose an iterative mechanism to further improvethe depth estimation with structural details.
 
 - structure:
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/OmniFusion.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/semantic%20Segmentation/P2PDA_framework.png)
 
 - results:
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/OmniFusion_exp.png)
