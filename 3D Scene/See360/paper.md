@@ -14,7 +14,7 @@
 - structure:
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/see360.png)
 
--results:
+- results:
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/see360_exp_1.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/see360_exp_2.png)
 
