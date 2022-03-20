@@ -12,10 +12,13 @@
 (3) We advocate attentional domain adaptation by integrating attention-augmented adversarial- and attention-regulated self-learning adaptation, verifying that uncertainty-aware distillation with adapted knowledge can further boost the DA performance significantly.
 (4)With the DANet baseline, our P2PDA framework achieves +13.5% and +16.2% mIoU gains by adapting from Cityscapes and further adding WildDash.
 
-- structure:
+- Framework:
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/semantic%20Segmentation/P2PDA_framework.png)
+- RCDAM module
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/semantic%20Segmentation/P2PDA_RCDAM.png)
+- SDAM module
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/semantic%20Segmentation/P2PDA_SDAM.png)
+- ADAM module
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/semantic%20Segmentation/P2PDA_ADAM.png)
 
 - results:
