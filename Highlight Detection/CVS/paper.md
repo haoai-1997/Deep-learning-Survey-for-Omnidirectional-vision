@@ -17,5 +17,5 @@
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/CVS_exp1.png" width="50%" height="50%">
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/CVS_exp2.png" width="50%" height="50%">
 
--analysis: 将room layout工作进行拆分成，surface normal estimation, 2D object detection and 3D object pose estimation,利用生成模型和概率论进行参数推理。
+-Analysis: 16 times faster at inference than AutoCam, which is one of the first summarization algorithms of 360-degree videos.
 
