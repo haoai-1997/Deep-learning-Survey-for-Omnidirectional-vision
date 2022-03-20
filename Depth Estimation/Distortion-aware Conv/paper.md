@@ -16,6 +16,6 @@ We propose to modify the network’s convolutions by leveraging geometrical prio
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Distortion_exp1.png" width="50%" height="50%">
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Distortion_exp2.png" width="50%" height="50%">
 
--Analysis: 
+-Analysis: With the help of the novel distortion-aware convs, 360-degree depth estimation can be trained on perspective images and tested on 360 domain directly.
 
 
