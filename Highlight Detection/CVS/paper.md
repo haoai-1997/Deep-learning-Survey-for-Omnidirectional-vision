@@ -4,13 +4,12 @@
 
 - dataset: Pano2Vid dataset and 360-degree video highlight dataset
 
-- abstract: We address the problem of highlight detection from a 360-degree video by summarizing it both spatially and temporally. Given a long 360-degree video, we spatially select pleasantly-looking normal field-of-view (NFOV) segments from unlim- ited field of views (FOV) of the 360◦ video, and temporally summarize it into a concise and informative highlight as a selected subset of subshots.
+- abstract: We address the problem of highlight detection from a 360-degree video by summarizing it both spatially and temporally. Given a long 360-degree video, we spatially select pleasantly-looking normal field-of-view (NFOV) segments from unlimited field of views (FOV) of the 360-degree video, and temporally summarize it into a concise and informative highlight as a selected subset of subshots.
 - Contributions:
-(1) We follow a Manhattan World assumption,reconstructing the complete shape of the room. 
-(2) Objectlocation and pose is estimated using top-down object detec-tion and 3D pose estimation using a public library of 3Dmodels
-(3) We introduce a context prior for object and wallrelationships in order to sample plausible room hypotheses.
+(1) Our work is the first attempt to summarize 360-degree videos both spatially and temporally for highlight detection. To this end, we develop a novel deep ranking model and collect a new dataset of 360-degree videos from YouTube and Vimeo.
+(2) We propose Composition View Score (CVS) model, which produces a spherical composition score map of composition per video segment of 360-degree videos, and determines which view is suitable for highlight via a sliding window kernel at inference.
 
-- structure: Generative model
+- structure: CVS model
 
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Pano2CAD.png)
 
