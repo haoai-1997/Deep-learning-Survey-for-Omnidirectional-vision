@@ -11,11 +11,11 @@
 
 - Structure: CVS model
 
-![image width="50%" height="50%"](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/CVS.png)
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/CVS.png" width="50%" height="50%">
 
 - Results：
-![image width="50%" height="50%"](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/CVS_exp1.png)
-![image width="50%" height="50%"](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/CVS_exp2.png)
+[image width="50%" height="50%"](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/CVS_exp1.png)
+[image width="50%" height="50%"](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/CVS_exp2.png)
 
 -analysis: 将room layout工作进行拆分成，surface normal estimation, 2D object detection and 3D object pose estimation,利用生成模型和概率论进行参数推理。
 
