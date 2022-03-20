@@ -10,10 +10,10 @@
 (2) We introduce pooling and parameterization of filters in the spectral domain,with enforced spatial localization and capacity independent of the resolution.
 (3) Our network has much lower capacity than non-spherical networks appliedon 3D data without sacrificing performance.
 
-- structure：基于Group Convolution, 引入Spherical harmonics
+structure：基于Group Convolution, 引入Spherical harmonics
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SO(3)_representation.png)
-- results：
+results：
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SO(3)_classification_result.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SO(3)_retrieval_result.png)
 
-- analysis: Resulting filters have local sym-metry and are localized by enforcing smooth spectra; much lower capacity and without requiring data augmen-tation.此方法用在点云数据集上未被用于360 image
+analysis: Resulting filters have local sym-metry and are localized by enforcing smooth spectra; much lower capacity and without requiring data augmen-tation.此方法用在点云数据集上未被用于360 image
