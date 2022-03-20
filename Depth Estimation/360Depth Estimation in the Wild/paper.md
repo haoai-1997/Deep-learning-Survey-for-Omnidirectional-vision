@@ -21,7 +21,7 @@ Our method predicts consistent global depth while maintaining sharp details at l
 
 inverse Huber loss
 
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Huber_loss_func_1.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Huber_Loss_func_1.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Huber_loss_func_2.png)
 
 - result:
