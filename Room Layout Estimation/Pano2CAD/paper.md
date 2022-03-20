@@ -16,6 +16,6 @@
 
 - results：
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Pano2CAD_result.png)
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Pano2CAD_sundataset.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images /Pano2CAD_sundataset.png)
 
--analysis: （对文章的分析）
+-analysis: 将room layout工作进行拆分成，surface normal estimation, 2D object detection and 3D object pose estimation,利用生成模型和概率论进行参数推理。
