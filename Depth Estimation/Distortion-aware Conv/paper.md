@@ -1,15 +1,14 @@
-## A Deep Ranking Model for Spatio-Temporal Highlight Detection from a 360-degree Video
+## Distortion-Aware Convolutional Filters for Dense Prediction in Panoramic Images
 
 - year: 2018
 
-- dataset: Pano2Vid dataset and 360-degree video highlight dataset (self-collected)
+- dataset: Stanford2D3D dataset (for testing) and NYU Depth v2 dataset (for training)
 
-- Abstract: We address the problem of highlight detection from a 360-degree video by summarizing it both spatially and temporally. Given a long 360-degree video, we spatially select pleasantly-looking normal field-of-view (NFOV) segments from unlimited field of views (FOV) of the 360-degree video, and temporally summarize it into a concise and informative highlight as a selected subset of subshots.
+- Abstract: 3D sensors able to capture 3D panoramic data are expensive and/or hardly available. To fill this gap, we propose a learning approach for panoramic depth map estimation from a single image. Thanks to a specifically developed distortion-aware deformable convolution filter, our method can be trained by means of conventional perspective images, then used to regress depth for panoramic images, thus bypassing the effort needed to create annotated panoramic training dataset.
 - Contributions:
-(1) Our work is the first attempt to summarize 360-degree videos both spatially and temporally for highlight detection. To this end, we develop a novel deep ranking model and collect a new dataset of 360-degree videos from YouTube and Vimeo.
-(2) We propose Composition View Score (CVS) model, which produces a spherical composition score map of composition per video segment of 360-degree videos, and determines which view is suitable for highlight via a sliding window kernel at inference.
+We propose to modify the network’s convolutions by leveraging geometrical priors for the image distortion, by means of a novel distortion-aware convolution that adapts its receptive field by deforming the shape of the convolutional filter according to the distortion and projection model. Thus, these modified filters can compensate for the image distortions directly during the convolutional operation, so to rectify the receptive field. In particular, the advantage is that panoramic depth prediction can be trained by means of standard perspective images. 
 
-- Structure: CVS model
+- Structure: Distortion-aware convolution
 
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Distortion.png" width="70%" height="70%">
 
@@ -17,6 +16,6 @@
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Distortion_exp1.png" width="50%" height="50%">
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Distortion_exp2.png" width="50%" height="50%">
 
--Analysis: 16 times faster at inference than AutoCam, which is one of the first summarization algorithms of 360-degree videos.
+-Analysis: 
 
 
