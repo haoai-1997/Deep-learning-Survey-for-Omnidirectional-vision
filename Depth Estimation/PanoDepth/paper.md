@@ -13,14 +13,17 @@ In the second stage, we propose a differentiable Spherical Warping Layer to hand
 (3) We propose a novel differentiable Spherical Warp-ing Layer (SWL) which adapts regular stereo matching networks to 360 stereo geometry, and enables advanced features such as multi-view stereo and cascade mechanism for stereo performance boost.
 
 - structure:
+
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/PanoDepth.png)
 
 - loss function
+
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/PanoDepth_total_loss.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/PanoDepth_coarse_loss.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/PanoDepth_loss_stereo.png)
 
 - results:
+
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/PanoDepth_result.png)
 
 - analysis
