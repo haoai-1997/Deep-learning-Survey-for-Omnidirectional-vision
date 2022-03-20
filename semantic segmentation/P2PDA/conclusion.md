@@ -2,18 +2,21 @@
 
 - conference: IEEE Transactions on Intelligent Transportation Systems, 2021
 
-- dataset: DensePASS
+- dataset: proposed dataset: DensePASS and Cityscapes, WildDash.
 
-- abstract: the paper proposes a 360 monocular depth estimation pipeline - OmniFusion - to tackle the spherical distortion issue. And we propose a new framework to handle the discrepancy between patch-wise predictions. An iterative depth refinement mechanism is introduced to further refine the estimated depth based on the more accurate geometric features.
+- abstract: Firstly, this work builds a novel dataset DensePASS for semantic segmentation in 360 degree domain. Secondly, this paper introduces P2PDA - a generic framework for PINHOLE→PANORAMIC semantic segmentation which addresses the challenge of domain divergence with different variants of attention-augmented domain adaptation modules, enabling the transfer in output-, feature-, and feature confidence spaces. P2PDA intertwines uncertainty-aware adaptation using confi- dence values regulated on-the-fly through attention heads with discrepant predictions. The proposed method performs greater on the novel dataset DensePASS than other baseline methods.
 
 - contributions: 
-(1)We present a 360 monocular depth prediction pipelinethat addresses the distortion issue via geometry-aware fusion and achieves the state-of-the-art performance. 
-(2)We introduce a geometric embedding network to provide 3D geometric features to mitigate the discrepancyin patch-wise image features. 
-(3)We incorporate a self-attention-based transformer toglobally aggregate patch-wise information which en-hances the estimation of the physical scale of depth. 
-(4)We propose an iterative mechanism to further improvethe depth estimation with structural details.
+(1)We create and publicly release DENSEPASS – a new benchmark for panoramic semantic segmentation collected from locations all around the world and densely annotated with 19 classes in accordance to the pinhole camera dataset Cityscapes to enable proper PINHOLE→PANORAMIC evaluation.
+(2)We propose a generic P2PDA framework and investigate various DA modules both in a separate and joint man- ner, validating their effectiveness with various networks designed for self-driving scene segmentation.
+(3) We advocate attentional domain adaptation by integrating attention-augmented adversarial- and attention-regulated self-learning adaptation, verifying that uncertainty-aware distillation with adapted knowledge can further boost the DA performance significantly.
+(4)With the DANet baseline, our P2PDA framework achieves +13.5% and +16.2% mIoU gains by adapting from Cityscapes and further adding WildDash.
 
 - structure:
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/semantic%20Segmentation/P2PDA_framework.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/semantic%20Segmentation/P2PDA_RCDAM.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/semantic%20Segmentation/P2PDA_SDAM.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/semantic%20Segmentation/P2PDA_ADAM.png)
 
 - results:
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/OmniFusion_exp.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/semantic%20Segmentation/P2PDA_result.png)
