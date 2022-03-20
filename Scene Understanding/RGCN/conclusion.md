@@ -3,9 +3,9 @@
 
 - conference: ICCV, 2021
 
-- dataset: the proposed DensePASS and Cityscapes, WildDash.
+- dataset: synthetic dataset.
 
-- abstract: Firstly, this work builds a novel dataset DensePASS for semantic segmentation in 360 degree domain. Secondly, this paper introduces P2PDA - a generic framework for PINHOLE→PANORAMIC semantic segmentation which addresses the challenge of domain divergence with different variants of attention-augmented domain adaptation modules, enabling the transfer in output-, feature-, and feature confidence spaces. P2PDA intertwines uncertainty-aware adaptation using confi- dence values regulated on-the-fly through attention heads with discrepant predictions. The proposed method performs greater on the novel dataset DensePASS than other baseline methods.
+- abstract: Firstly, this work builds a novel synthetic dataset for scene understanding in 360 degree domain. Secondly, this work propose a novel method for panoramic 3D scene understanding which recovers the 3D room layout and the shape, pose, position, and semantic category for each object from a single full-view panorama image. In order to fully utilize the rich context information, we design a novel graph neural network based context model to pre- dict the relationship among objects and room layout, and a differentiable relationship-based optimization module to optimize object arrangement with well-designed objective functions on-the-fly. Realizing. The proposed method performs greater on the dataset than other baseline methods.
 
 - contributions: 
 (1) We pro-pose the first deep learning based pipeline for holistic 3D scene understanding that recovers 3D room layout and de-tailed shape, pose, location for objects in the scene from a single color full-view panorama image. 
