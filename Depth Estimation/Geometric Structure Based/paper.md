@@ -15,7 +15,7 @@
 - Results：
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Geometric-aware_exp1.png" width="50%" height="50%">
 
--Analysis: With the help of the novel distortion-aware convs, 360-degree depth estimation can be trained on perspective images and tested on 360 domain directly.
+-Analysis: This work novely introduces geometric structure (corner, line and plane) as a prior and a regularizer to facilitate 360-degree depth estimation. In addition, as furniture in indoor scenes cause difficulties to geometric structures, they also propose a synthetic dataset. However, they need more information for training, and the appropriate scenes are also limited for the visualization of geometric structures.
 
 
 
