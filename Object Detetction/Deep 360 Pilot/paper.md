@@ -23,11 +23,11 @@ preferred one (i.e., goal).  Specifically, we leverage a state-of-the-art object
 (2)a smoothness loss encouraging smooth transition in viewing angle
 (3) maximizing an expected reward of focusing on a foreground object
 
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Deep360Pilotstructure.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Deep360PilotStructure.png)
 - results：
 metrics: **(Mean Overlap (MO) and Mean Velocity Difference (MVD))**
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Deep360Pilotreresult1.png)
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Deep360Pilotresult2.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Deep360PilotResult1.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Deep360PilotResult2.png)
 
 
 - analysis: Our solution entails a new form of **(distillation)** across camera projection models. Compared to current practices for feature extraction on 360°images/video, spherical convolution benefits efficiency by avoiding performing multiple perspective projections, and it benefits accuracy by adapting kernels to the distortions in equirectangular projection.
