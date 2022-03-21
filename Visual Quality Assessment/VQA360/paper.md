@@ -1,4 +1,4 @@
-## Visual Question Answering
+## Visual Question Answering on 360{\deg} Images
 - year: 2020
 
 - dataset：  **(the first VQA 360◦ dataset, containing around 17,000 realworld image-question-answer triplets for a variety of question types)**  
