@@ -9,7 +9,7 @@
 
 - Structure: SpherePHD
 
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SpherePHD.png" width="70%" height="70%">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/spherephd.png" width="70%" height="70%">
 
 -Analysis: This work novely introduces a spherical polyhedron to represent omni-directional views. It also demonstrates its flexibility on various tasks. However, the computation complexity is still large. The later work, e.g., SphereSR, optimizes this drawback effectively.
 
