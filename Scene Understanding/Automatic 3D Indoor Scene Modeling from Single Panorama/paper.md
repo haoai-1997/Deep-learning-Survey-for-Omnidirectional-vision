@@ -22,8 +22,8 @@ Our system recovers the spatial layout and also recovers shapes of typical indoo
 
 view selection capability on Pano2Vid dataset; the temporal summarization with a newly
 collected 360◦ video dataset, another domain, with image-based storytelling VIST dataset
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/automatic3Dresult.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/automatic3Dresult1.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/automatic3Dresult2.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/automatic3Dresult3.png)
 
 - analysis: We have presented a new system to add depth to a 2D panorama of an indoor scene.  Our system uses semantic cues and geometric cues to partition the panorama into background (layout) and foreground (object). The layout which includes the ground plane, is recovered using geometric cues. Layout information is then used to help extract object depth.
