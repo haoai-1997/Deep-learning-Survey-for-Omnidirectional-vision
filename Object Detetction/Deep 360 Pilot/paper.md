@@ -4,7 +4,7 @@
 
 - dataset：  **(Sports-360 Dataset)** 
 
-- abstract: To relieve the viewer from this “360 piloting” task, we propose “deep 360 pilot”–a deep learning-based agent for piloting through 360◦ sports videos automatically. At each frame, the agent observes a panoramic image and has the knowledge of previously selected viewing angles. The task of the agent is
+- abstract: To relieve the viewer from this “360 piloting” task, we propose  **(first)** online work “deep 360 pilot”–a deep learning-based agent for piloting through 360◦ sports videos automatically. At each frame, the agent observes a panoramic image and has the knowledge of previously selected viewing angles. The task of the agent is
 to shift the current viewing angle (i.e. action) to the next
 preferred one (i.e., goal).  Specifically, we leverage a state-of-the-art object detector to propose a few candidate objects of interest (yellow boxes in Fig. 1). Then, a recurrent neural network is used to select the main object (green dash boxes in Fig. 1). Given the main object and previously selected viewing angles, our method regresses a shift in viewing angle to move to the next one.
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Deep360Pilot.png)
