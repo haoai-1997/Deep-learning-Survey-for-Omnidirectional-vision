@@ -20,7 +20,7 @@ The unique updates of PFMN include (i) exploiting an additional memory for futur
 
 view selection capability on Pano2Vid dataset; the temporal summarization with a newly
 collected 360◦ video dataset, another domain, with image-based storytelling VIST dataset
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/PFMNresult.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/PFMNresult3.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/PFMNresult1.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/PFMNresult2.png)
 
