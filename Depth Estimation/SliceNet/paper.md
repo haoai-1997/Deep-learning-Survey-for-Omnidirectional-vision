@@ -1,21 +1,24 @@
 ## Distortion-Aware Convolutional Filters for Dense Prediction in Panoramic Images
 
-- year: 2018
+- year: 2021
 
-- dataset: Stanford2D3D dataset (for testing) and NYU Depth v2 dataset (for training)
+- dataset: Stanford2D3D dataset, Matterport3D dataset, and 3D60 dataset
 
-- Abstract: 3D sensors able to capture 3D panoramic data are expensive and/or hardly available. To fill this gap, we propose a learning approach for panoramic depth map estimation from a single image. Thanks to a specifically developed distortion-aware deformable convolution filter, our method can be trained by means of conventional perspective images, then used to regress depth for panoramic images, thus bypassing the effort needed to create annotated panoramic training dataset.
+- Abstract: 
+We introduce a novel deep neural network to estimate a depth map from a single monocular indoor panorama. The network directly works on the equirectangular projection, exploiting the properties of indoor 360-degree images.
 - Contributions:
-We propose to modify the network’s convolutions by leveraging geometrical priors for the image distortion, by means of a novel distortion-aware convolution that adapts its receptive field by deforming the shape of the convolutional filter according to the distortion and projection model. Thus, these modified filters can compensate for the image distortions directly during the convolutional operation, so to rectify the receptive field. In particular, the advantage is that panoramic depth prediction can be trained by means of standard perspective images. 
+(1) We introduce a slice-based representation of an omni-directional image; 
+(2) We specialize and refine feature flattening, which has proven to be effective to regress one-dimensional tensors, for bi-dimensional depth encoding;
+(3) We introduce, for depth estimation from a single image, a LSTM multi-layer module to effectively recover long and short term spatial relationships between slices in the presence of a large number of features per slice due to the concatenation of multiscale representations.
 
-- Structure: Distortion-aware convolution
+- Structure: ResNet and RNN
 
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SliceNet.png" width="70%" height="70%">
 
 - Results：
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SliceNet_exp1.png" width="50%" height="50%">
 
--Analysis: With the help of the novel distortion-aware convs, 360-degree depth estimation can be trained on perspective images and tested on 360 domain directly.
+-Analysis: SliceNet is designed specifically for ERP. This work also provides a RNN scheme to construct relationships between slices.
 
 
 
