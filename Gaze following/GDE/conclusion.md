@@ -1,4 +1,4 @@
-## Transfer beyond the Field of View: Dense Panoramic Semantic Segmentation via Unsupervised Domain Adaptation
+## Looking here or there? Gaze Following in 360-Degree Images
 
 - conference: ICCV, 2021
 
