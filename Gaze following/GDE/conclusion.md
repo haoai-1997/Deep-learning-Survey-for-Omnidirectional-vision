@@ -4,10 +4,12 @@
 
 - dataset: the proposed dataset: GazeFollow360
 
-- abstract: Firstly, this work builds a novel dataset DensePASS for semantic segmentation in 360 degree domain. Secondly, this paper introduces P2PDA - a generic framework for PINHOLE→PANORAMIC semantic segmentation which addresses the challenge of domain divergence with different variants of attention-augmented domain adaptation modules, enabling the transfer in output-, feature-, and feature confidence spaces. P2PDA intertwines uncertainty-aware adaptation using confi- dence values regulated on-the-fly through attention heads with discrepant predictions. The proposed method performs greater on the novel dataset DensePASS than other baseline methods.
+- abstract: First, we collect the first dataset, “GazeFollow360”, for this task, contain- ing around 10,000 360-degree images with complex gaze behaviors under various scenes. Second, we propose a 3D sight line guided dual-pathway framework, to detect the gaze target within a local region (here) and from a distant region (there), parallelly.
 
 - contributions: 
-(1)We create 
+(1)This is the first work that studies gaze following in 360-degree images. 
+(2) We establish “GazeFol- low360”, the first large-scale dataset for gaze following in 360-degree images which contains 10,058 4K high resolution images with annotations of heads and gaze targets. 
+(3) We propose a sight line guided dual-pathway framework to address the mismatch between the sight line of a human subject and the gaze target in 360-degree images
 
 - Framework:
 
