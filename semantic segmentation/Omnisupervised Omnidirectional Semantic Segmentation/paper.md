@@ -10,4 +10,4 @@
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/omnisupervised_learning_framework.png)
 
 - results：
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/omnisupervised_result.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/ominisupervised_result.png)
