@@ -7,7 +7,7 @@
 
 ## [3D reconstruction](3D\reconstruction)
 
-- Efficient 3D Room Shape Recovery (traditional)
+- Efficient 3D Room Shape Recovery **((traditional))**
 
 ## [CNN](CNN)
 
@@ -38,7 +38,7 @@
 ## [Scene Understanding](Scene\Understanding)
 
 - DeepPanoContext: Panoramic 3D Scene Understanding with Holistic Scene Context Graph and Relation-based Optimization
-- PanoContext: A Whole-Room 3D Context Model for Panoramic Scene Understanding (traditional)
+- PanoContext: A Whole-Room 3D Context Model for Panoramic Scene Understanding **((traditional))**
 
 ## [Video Compression](Video\Compression)
 
