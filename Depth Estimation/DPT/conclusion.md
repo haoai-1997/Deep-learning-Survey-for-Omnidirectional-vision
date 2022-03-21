@@ -6,7 +6,10 @@
 - abstract: Firstly, 
 
 - contributions: 
-(1) We pro-pose the 
+(1) We propose a self-supervised method for the learning of depth that only utilizes gravity-aligned video sequences.
+(2) we propose a joint learning scheme realized by combining supervised and self-supervised learning.
+(3) we propose a non-local fusion block which improves on the areas missed by vision transformers for dense prediction.
+(4) Our approaches achieve significant improvements over previous works on several benchmarks, thus establishing a state of the art.
 
 - Framework:
 
