@@ -5,7 +5,7 @@
 - dataset：  **(synthesis dataset selected from SUN RGB-D and Cityscapes)**  
 
 - abstract: This work aims at reliving the content ambiguity between reflection and transmission scenes.  We propose a two-step approach to solve this problem, by first accomplishing geometric and photometric alignment for the reflection scene via a coarse-to-fine strategy, and then restoring the transmission scene via a recovery network.
-
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/PIRPabstract.png)
 - Contributions:
 
 (1) We present the first work to explicitly relieve the content ambiguity for reflection removal using a
