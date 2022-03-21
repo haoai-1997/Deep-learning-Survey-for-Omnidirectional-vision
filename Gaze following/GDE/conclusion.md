@@ -11,6 +11,8 @@
 
 - Framework:
 
+![image]( https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/gaze%20following/GDE_framework.png)
+
 - results:
 
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/semantic%20Segmentation/P2PDA_result.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/gaze%20following/GDE_result.png)
