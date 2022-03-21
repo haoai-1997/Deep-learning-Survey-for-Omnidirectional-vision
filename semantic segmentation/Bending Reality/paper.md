@@ -13,6 +13,7 @@ To get around this domain difference and bring together semantic annotations fro
 (3) Our framework for transferring models from PIN2PAN yields excellent results on two competitive bench-marks.
 
 - structure:
+
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Bending_Reality_framework.png)
 
 - loss function
@@ -23,6 +24,7 @@ To get around this domain difference and bring together semantic annotations fro
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/final_loss.png)
 
 - result:
+
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Bending_Reality_result.png)
 
 
