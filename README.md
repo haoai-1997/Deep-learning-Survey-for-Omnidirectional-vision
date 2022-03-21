@@ -18,7 +18,6 @@
 
 - Omnidata: A Scalable Pipeline for Making Multi-Task Mid-Level Vision Datasets from 3D Scans
 - Refer360-degree: A Referring Expression Recognition Dataset in 360-degree Images
-- PanoContext: A Whole-Room 3D Context Model for Panoramic Scene Understanding
 
 
 ## [Highlight Detection](Highlight\Detection)
