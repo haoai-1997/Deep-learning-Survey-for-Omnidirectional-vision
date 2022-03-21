@@ -3,7 +3,8 @@
 
 - dataset: Stanford and 3D60.
 
-- abstract: Firstly, 
+- abstract: we propose 360◦ monocular depth estimation methods which improve on the areas that limited previous studies. 
+First, we introduce a self-supervised 360◦ depth learning method that only utilizes gravity-aligned videos. Second, we propose a joint learning scheme realized by combining supervised and self-supervised learning. Third, we propose a non-local fusion block, which can further retain the global information encoded by vision transformer when reconstructing the depths. 
 
 - contributions: 
 (1) We propose a self-supervised method for the learning of depth that only utilizes gravity-aligned video sequences.
