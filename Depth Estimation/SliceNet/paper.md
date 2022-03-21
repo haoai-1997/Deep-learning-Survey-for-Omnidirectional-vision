@@ -1,5 +1,4 @@
-## Distortion-Aware Convolutional Filters for Dense Prediction in Panoramic Images
-
+## SliceNet: deep dense depth estimation from a single indoor panorama using a slice-based representation
 - year: 2021
 
 - dataset: Stanford2D3D dataset, Matterport3D dataset, and 3D60 dataset
