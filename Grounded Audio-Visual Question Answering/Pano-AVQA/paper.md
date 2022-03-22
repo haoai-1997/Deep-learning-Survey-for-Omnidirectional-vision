@@ -18,4 +18,4 @@
 - Results：
   <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/BiFuse_exp1.png" width="50%" height="50%">
 
--Analysis: Utilize two projection formats of 360-degree images to better extracting and fusing information.
+-Analysis: This work provides a novel benchmark for grounded audio-visual question answering. Their transformer-based model performes better on this dataset.
