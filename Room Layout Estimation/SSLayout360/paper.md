@@ -1,6 +1,6 @@
 ## SSLayout360: Semi-Supervised Indoor Layout Estimation from 360◦ Panorama
 
-- year: 2018
+- year: 2021
 
 - dataset：  **( PanoContext dataset and Stanford-2D3D dataset, MatterportLayout test dataset)**  
 
