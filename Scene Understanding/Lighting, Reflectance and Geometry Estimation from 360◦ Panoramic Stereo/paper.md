@@ -4,7 +4,7 @@
 
 - dataset：  **Structured3D(synthetic indoor dataset)**  
 
-- We propose a method for estimating high-definition spatially-varying lighting, reflectance, and geometry of a scene from 360◦ stereo images.
+- abstract: We propose a method for estimating high-definition spatially-varying lighting, reflectance, and geometry of a scene from 360◦ stereo images.
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/LRGabstract.png)
 
 - Contributions:
