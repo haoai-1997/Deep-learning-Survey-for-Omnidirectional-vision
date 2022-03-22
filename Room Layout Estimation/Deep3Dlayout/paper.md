@@ -24,7 +24,7 @@ then driven by associating image features to mesh vertices.** we extract gravity
 - results：
 
 metrics: **(IoU3D;IoU2D;CD;𝐹𝜏0.1;𝐹𝜏0.3;𝐹𝜏0.5)**
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Deep3Dlayoutresult.png)
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Deep3Dlayoutresult1.png)
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Deep3Dlayoutresult2.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Deep3Dlayoutresults.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Deep3Dlayoutresults1.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Deep3Dlayoutresults2.png)
 - analysis: Differently from prior solutions, all the components of our method address the problem in 3D, without resorting to 1D or 2D projections, and we produce as output a closed 3D mesh rather than a 2.5D model with strong planarity or surfaceorientation priors. In particular, inference times are well within interactivity constraints. **Failure: our spherical mesh topology is far from being sufficient to represent all sorts of architectural environments, since several elements of the architectural structure, such as pillars, stairs, septal walls or openings cannot be represented with a single closed surface.**
