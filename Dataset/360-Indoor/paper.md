@@ -16,6 +16,7 @@
 
 (1) We collects the first object detection and classification dataset on 360◦ domain which contains 3k equirect-angular indoor images and 90k BFoVs annotations
    among 37 categories.
+   
 (2) We comprehensively evaluate three different object de-tection models on the proposed 360-Indoor dataset.
 The results show that standard object detection meth-ods train on the proposed dataset do have large im-provements than using NFoVs
 
