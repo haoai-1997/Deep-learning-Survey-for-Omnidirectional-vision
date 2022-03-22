@@ -20,7 +20,6 @@
 
 
 - results：
-To demonstrate ZInD’s benefits, we benchmark with **(HorizonNet)** on room layout estimation from single panoramas and multi-view registration.
 metrics: **(sMSE for reflectance and MAE in degrees for normal.)**
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/LGRresult.png)
 
