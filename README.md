@@ -40,14 +40,14 @@
 - Gaze Prediction in Dynamic 360◦ Immersive Videos
 - Self-view Grounding Given a Narrated 360◦ Video
 - A Deep Ranking Model for Spatio-Temporal Highlight Detection from a 360-degree Video
-- 
+
 ## [Image Compression](Image\Compression)
 - Pseudocylindrical Convolutions for LearnedOmnidirectional Image Compression
-- 
+
 ## [Image Super-resolution](Image\Super-resolution)
 - LAU-Net: Latitude Adaptive Upscaling Network for Omnidirectional Image Super-resolution
 - SphereSR: 360-degree Image Super-Resolution with Arbitrary Projection via Continuous Spherical Image Representation
-- 
+
 ## [Inpainting](Inpainting)
 - 360o Camera Alignment via Segmentation
 - Panoramic Image Reflection Removal
