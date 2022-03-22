@@ -7,8 +7,10 @@
 - abstract: we present a real-world 360◦ panoramic object detection dataset, 360-Indoor, which is a new benchmark for visual object detection and class recognition in 360◦ indoor images. 360-Indoor has several distinct properties: (1) the largest category number (37 labels in total). (2) the most complete annotations on average (27 bounding boxes per image). The selected 37 objects are all common in indoor scene. With around 3k images and 90k labels in total, 360-Indoor achieves the largest dataset for detection in 360◦ images.
 
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/dataset/360-Indoor_example.png)
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/dataset/360-Indoor_distribution.png)
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/dataset/360-Indoor_category.png)
+
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/dataset/360-Indoor-distribution.png)
+
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/dataset/360-Indoor-category.png)
 
 - Contributions:
 
@@ -26,5 +28,3 @@ The results show that standard object detection meth-ods train on the proposed d
 - results：
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/dataset/360-Indoor_result.png)
 
-
-- analysis: The dataset reflects a realistic distribution of layout complexities that include a significant number that are noncuboid and non-Manhattan. While the featured homes are unfurnished, we have shown that mapping the (sparse) panoramas to floor plans remains a research challenge.
