@@ -16,4 +16,4 @@
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/CONCENTRIC_2.png" width="70%" height="70%">
 
 
--Analysis: Utilize two projection formats of 360-degree images to better extracting and fusing information.
+-Analysis: This paper proposes an effective learning representation of 3D data (point clouds/meshes) using a spherical GNN architecture over concentric spherical maps. Evaluation is done through 3D classification tasks.
