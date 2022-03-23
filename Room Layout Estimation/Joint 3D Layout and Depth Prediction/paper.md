@@ -8,7 +8,7 @@
 - Contributions:
 (1) We propose a novel neural network pipeline which jointly learns layout pre- diction and depth estimation from a single indoor panorama image. We show that layout and depth estimation tasks are highly correlated and joint learn- ing improves the performance for both tasks.
 (2) We show that leveraging the layout depth map as an intermediate repre- sentation improves the layout prediction performance and refines the depth estimation.
-(2) The proposed method outperforms the state-of-the-art methods for both layout prediction and depth estimation on the challenging real-world dataset Stanford 2D-3D and PanoContext dataset for layout prediction.
+(3) The proposed method outperforms the state-of-the-art methods for both layout prediction and depth estimation on the challenging real-world dataset Stanford 2D-3D and PanoContext dataset for layout prediction.
   
 - Structure: ResNet
 
