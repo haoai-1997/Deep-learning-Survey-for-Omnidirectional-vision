@@ -15,7 +15,7 @@
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/joint3d.png" width="70%" height="70%">
 
 - Results：
-  <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/joint3d_exp1.png" width="50%" height="50%">
-  <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/joint3d_exp2.png" width="50%" height="50%">
+  <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/joint3d_1.png" width="50%" height="50%">
+  <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/joint3d_2.png" width="50%" height="50%">
 
 -Analysis: This work joints learn layout prediction and depth estimation. They estimate the layout depth as an intermediate representation of the network which encompasses the geometric information needed for both tasks.
