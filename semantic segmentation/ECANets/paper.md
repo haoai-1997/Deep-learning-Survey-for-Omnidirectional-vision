@@ -1,4 +1,5 @@
 ## Capturing Omni-Range Context for Omnidirectional Segmentation
+## Is Context-Aware CNN Ready for theSurroundings? Panoramic SemanticSegmentation in the Wild
 
 - year: 2022
 
