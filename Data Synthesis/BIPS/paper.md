@@ -13,7 +13,7 @@
 3) We introduce a novel evaluation metric, FAED, for RGB-D panorama synthesis and demonstrate its validity.
 - structure:
 
- We design a generator that fuses the bi-modal information and train it with residualaided adversarial learning (RDAL). RDAL allows to synthesize realistic indoor layout structures and interiors by jointly inferring RGB panorama, layout depth, and residual depth.
+- structure: We design a generator that fuses the bi-modal information and train it with residualaided adversarial learning (RDAL). RDAL allows to synthesize realistic indoor layout structures and interiors by jointly inferring RGB panorama, layout depth, and residual depth.
 
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/BIPSstructure.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/BIPSstructure1.png)
