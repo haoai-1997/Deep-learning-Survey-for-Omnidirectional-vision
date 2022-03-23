@@ -1,6 +1,6 @@
 ## BiFuse: Monocular 360-degree Depth Estimation via Bi-Projection Fusion
 
-- year: 2020
+- year: 2021
 
 - dataset: Stanford2D3D dataset, 3D60 dataset, PanoSUNCG dataset and Matterport3D dataset
 
