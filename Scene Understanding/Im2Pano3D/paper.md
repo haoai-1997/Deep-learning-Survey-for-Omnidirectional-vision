@@ -13,7 +13,6 @@
 - structure: Our network architecture follows an encoder-decoder structure, where the encoder produces a latent vector from an input panorama with missing regions, and the decoder uses that latent vector to produce an output panorama where the missing regions are filled
 
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Im2Pano3Dstructure.png)
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Im2Pano3Dstructure1.png)
 
 - results：
 
