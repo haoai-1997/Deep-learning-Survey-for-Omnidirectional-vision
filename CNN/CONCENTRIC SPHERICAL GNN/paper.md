@@ -12,10 +12,8 @@
 
 - Structure: BiFuse
 
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/BiFuse.png" width="70%" height="70%">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/CONCENTRIC_1.png" width="70%" height="70%">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/CONCENTRIC_2.png" width="70%" height="70%">
 
-- Results：
-  <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/BiFuse_exp1.png" width="50%" height="50%">
-  <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/BiFuse_exp2.png" width="50%" height="50%">
 
 -Analysis: Utilize two projection formats of 360-degree images to better extracting and fusing information.
