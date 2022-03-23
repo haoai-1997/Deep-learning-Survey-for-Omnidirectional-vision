@@ -5,7 +5,7 @@
 - dataset：  **(a dataset of 1000 images)**  
 
 - abstract: In this paper, we propose a framework that is an alternative to blurring, which automatically removes and inpaints moving objects (e.g. pedestrians, vehicles) in street-view imagery.
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/PPSVDabstract.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/PPSVabstract.png)
 
 - Contributions:
 1) We propose a new multi-view framework for detecting and inpainting moving objects, as an alternative to
