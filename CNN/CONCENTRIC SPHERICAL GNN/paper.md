@@ -2,15 +2,17 @@
 
 - year: 2021
 
-- dataset: Stanford2D3D dataset, 3D60 dataset, PanoSUNCG dataset and Matterport3D dataset
+- dataset: ModelNet40 dataset
 
-- Abstract: we propose to predict the depth map of a monocular 360◦ image by mimicking both peripheral and foveal vision of the human eye. To this end, we adopt a two-branch neural network lever- aging two common projections: equirectangular and cubemap projections.
+- Abstract: We propose a novel multi-resolution convolutional architecture for learning over concentric spherical feature maps, of which the single sphere representation is a special case. Our hierarchical architecture is based on alternatively learning to incorporate both intra-sphere and inter-sphere information.
 - Contributions:
-  (1) We propose an end-to-end two-branch network, which incorporates both equirectangular and cubemap projections, to mimic the combination of peripheral and foveal vision of the human eye, respectively.
-  (2) To share the information of different projections, we propose a bi-projection fusion procedure with learnable masks to balance the information from two projections.
-  (3) We propose spherical padding to extend the field-of-view of cubemap projection and reduce the boundary inconsistency of each face.
+(1) We propose a new multi-sphere icosahedral discretization for representation of 3D data, and show that incorporating the radial dimension can greatly enhance representation ability over single-sphere representations.
+(2) We also introduce a novel convolutional architecture for multi-sphere discretization by introducing two
+different types of convolutions, graph convolution and radial convolutions, for incorporating intra-sphere and inter-sphere information. Their combined use leads to an expressive architecture that is also rotationally equivariant. Our proposed convolutions are also scalable, being linear with respect to the discretization size.
+(3) We design mappings of both 3D mesh objects and general point clouds to the proposed representation. We achieve new state-of-the-art performance on ModelNet40 point cloud classification, using the proposed model and an input data mapping based on radial basis functions. We also outperform existing Spherical CNN performance in SHREC17 3D mesh classification.
 
-- Structure: BiFuse
+
+- Structure: GNN
 
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/CONCENTRIC_1.png" width="70%" height="70%">
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/CONCENTRIC_2.png" width="70%" height="70%">
