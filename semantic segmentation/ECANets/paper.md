@@ -1,4 +1,4 @@
-## Omnisupervised Omnidirectional Semantic Segmentation
+## Capturing Omni-Range Context for Omnidirectional Segmentation
 
 - year: 2022
 
