@@ -11,7 +11,7 @@
 1) We introduce a new problem of generating RGB-D panoramas from partial and arbitrary RGB-D inputs.
 2) We propose a BIPS framework that allows to synthesize RGBD panoramas via residual depth-aided adversarial learning.
 3) We introduce a novel evaluation metric, FAED, for RGB-D panorama synthesis and demonstrate its validity.
-- structure:
+
 
 - structure: We design a generator that fuses the bi-modal information and train it with residualaided adversarial learning (RDAL). RDAL allows to synthesize realistic indoor layout structures and interiors by jointly inferring RGB panorama, layout depth, and residual depth.
 
