@@ -1,4 +1,4 @@
-## BiFuse: Monocular 360-degree Depth Estimation via Bi-Projection Fusion
+## CONCENTRIC SPHERICAL GNN FOR 3D REPRESENTATION LEARNING
 
 - year: 2021
 
