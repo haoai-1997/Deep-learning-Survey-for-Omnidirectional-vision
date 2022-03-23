@@ -14,6 +14,7 @@ Our PyTorch code is easy to use, fast, and memory efficient.
 (3) The first empirical support for the utility of spherical CNNs for rotation-invariant learning problems.
 
 - structure
+
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Spherical_CNNs.png)
 
 - analysis:
