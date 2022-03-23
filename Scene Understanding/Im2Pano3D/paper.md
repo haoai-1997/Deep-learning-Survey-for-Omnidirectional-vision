@@ -10,7 +10,7 @@
 - Contributions:
 1) We propose the task of semantic-structure view extrapolation and present Im2Pano3D, a unified framework able to produce a complete room structure and semantic labeling when given a partial observation of a scene. 
 
--structure: Our network architecture follows an encoder-decoder structure, where the encoder produces a latent vector from an input panorama with missing regions, and the decoder uses that latent vector to produce an output panorama where the missing regions are filled
+- structure: Our network architecture follows an encoder-decoder structure, where the encoder produces a latent vector from an input panorama with missing regions, and the decoder uses that latent vector to produce an output panorama where the missing regions are filled
 
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Im2Pano3Dstructure.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Im2Pano3Dstructure1.png)
