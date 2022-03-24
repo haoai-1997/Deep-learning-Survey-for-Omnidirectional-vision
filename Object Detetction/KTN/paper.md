@@ -18,7 +18,9 @@ This enables application to multiple recognition tasks without re-training the K
 (2)Results show KTN models are orders of magnitude smaller than the most accurate competitor
 
 - structure:
+
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/object%20detection/KTN_framework.png)
 
 - results:
+
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/object%20detection/KTN_result.png)
