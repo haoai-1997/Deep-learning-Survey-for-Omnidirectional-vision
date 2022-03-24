@@ -12,9 +12,9 @@
 2) a novel dataset of real LDR panoramas and associated HDR ground truth.
 3) to show the applicability of our approach on three novel applications: single shot light probe, visualizing virtual objects and image matching in large LDR panorama database.
 
--structure: As for synthesis in the 3D space, we implement a cascaded network architecture with two hourglass modules to generate pointwise coarse and fine features from semantics and per-class latent vectors, followed by projection to frames and an upsampling module to obtain the final realistic video.
+- structure: As for synthesis in the 3D space, we implement a cascaded network architecture with two hourglass modules to generate pointwise coarse and fine features from semantics and per-class latent vectors, followed by projection to frames and an upsampling module to obtain the final realistic video.
 
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/LHDRstructure.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/LHDRabstract.png)
 
 - results：
 
