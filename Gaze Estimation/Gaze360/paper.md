@@ -23,6 +23,7 @@
 
 - results：
 metrics: **(the mean angular errors )**
+
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Gaze360result.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Gaze360result1.png)
 
