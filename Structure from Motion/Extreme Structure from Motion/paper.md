@@ -21,8 +21,8 @@
 
 - results：
 metrics: **(success-rate (where a method is defined to be a success if top-K reconstructions contain a solution, whose mean positional error is below δ meters.))**
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/ESFMresult.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/ESFMresult1.png)
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/ESFMresult2.png)
 
 - analysis: This paper introduces a new extreme SfM problem for indoor panoramas and proposes a unique SfM algorithm, which learns to evaluate the arrangement of rooms/doors/windows without solving a correspondence problem. Our algorithm makes significant improvements over the current state-of-the-art, which completely fails for every single example.
 
