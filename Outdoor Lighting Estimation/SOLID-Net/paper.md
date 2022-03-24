@@ -18,7 +18,6 @@
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SOLIDstructure.png)
 
 - results：
-
 metrics: **( mean absolute error (MAE) on the HDR sky environment map, angular error on the sun position and sun azimuth/elevation angles, and SSIM on the detailed local lighting as error metrics)**
 
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SOLIDresult.png)
@@ -28,5 +27,5 @@ metrics: **( mean absolute error (MAE) on the HDR sky environment map, angular e
 - analysis:  We present the **first** end-to-end outdoor spatially-varying lighting estimation framework and demonstrate it significantly outperforms previous works via extensive evaluations on both synthetic and real datasets.
 
 - **Limitation**:  
-1)Due to the material diversity gap between synthetic and real data, the intrinsic decomposition results on real data may not be as accurate as those on synthetic data.
+1) Due to the material diversity gap between synthetic and real data, the intrinsic decomposition results on real data may not be as accurate as those on synthetic data.
 2) Although SOLID-Net estimates HDR lighting environment map to support realistic relighting effects, our lighting model is not suitable for generating animations that are sensitive at harsh lighting boundaries.
