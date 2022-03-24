@@ -2,13 +2,14 @@
 
 - year: 2021
 
-- dataset: Stanford2D3D dataset, 3D60 dataset, PanoSUNCG dataset and Matterport3D dataset
+- dataset: Stanford2D-3D-S dataset, OmniScenes dataset (self-collected), and MPO dataset
 
-- Abstract: we propose to predict the depth map of a monocular 360-degree image by mimicking both peripheral and foveal vision of the human eye. To this end, we adopt a two-branch neural network lever- aging two common projections: equirectangular and cubemap projections.
+- Abstract: 
+We present PICCOLO, a simple and efficient algorithm for omnidirectional localization. Given a colored point cloud and a 360-degree panorama image of a scene, our objective is to recover the camera pose at which the panorama image is taken.
 - Contributions:
-  (1) We propose an end-to-end two-branch network, which incorporates both equirectangular and cubemap projections, to mimic the combination of peripheral and foveal vision of the human eye, respectively.
-  (2) To share the information of different projections, we propose a bi-projection fusion procedure with learnable masks to balance the information from two projections.
-  (3) We propose spherical padding to extend the field-of-view of cubemap projection and reduce the boundary inconsistency of each face.
+  (1) We introduce PICCOLO, a simple yet effective omnidirectional localization algorithm.
+  (2) The gradient of our proposed sampling loss can be effi- ciently obtained with differentiable sampling
+  (3) In addition, we introduce a new dataset called OmniScenes to highlight the practicality of PICCOLO.
 
 - Structure: BiFuse
 
@@ -18,4 +19,4 @@
   <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/PICCOLO_exp1.png" width="50%" height="50%">
   <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/PICCOLO_exp2.png" width="50%" height="50%">
 
--Analysis: Utilize two projection formats of 360-degree images to better extracting and fusing information.
+-Analysis: This method is not data-driven and can be implemented efficiently. They also provide a dataset named "OmniScenes".
