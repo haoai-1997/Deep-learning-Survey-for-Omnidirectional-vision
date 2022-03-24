@@ -1,4 +1,4 @@
-## PICCOLO: Point Cloud-Centric Omnidirectional Localization
+## PICCOLO: Point Cloud-Centric Omnidirectional Localization(traditional)
 
 
 - year: 2021
