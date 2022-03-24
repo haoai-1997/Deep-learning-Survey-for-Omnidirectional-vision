@@ -18,4 +18,4 @@
 - Results：
   <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Spherical VS_exp1.png" width="50%" height="50%">
 
--Analysis: Utilize two projection formats of 360-degree images to better extracting and fusing information.
+-Analysis: This work presents a full spherical disparity model for self-supervised depth prediction in 360 domain. In addition, they also provide a relative dataset.
