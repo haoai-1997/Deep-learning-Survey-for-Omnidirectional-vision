@@ -6,7 +6,7 @@
 60 clips within our dataset are for training and the rest 25 clips are for testing. 
 All the clips are cleaned and trimmed from 45 raw videos obtained from YouTube.)
 
-- abstract
+- abstract:
 we propose a simple and effective Cube Padding (CP) technique as follows.
 Firstly, we render the 360◦view on six faces of a cube using perspective projection.
 Then, we concatenate all six faces while utilizing the connectivity between faces on the cube for image padding (i.e., Cube Padding) in convolution, pooling, convolutional LSTM layers
