@@ -12,7 +12,7 @@
 1) We present the **first** work for satellite-to-ground video synthesis from a single satellite image with a trajectory.
 2) We propose a novel cross-view video synthesis method that ensures both spatial and temporal consistency by explicitly modeling a cross-frame correspondence using a 3D point cloud representation and building projective geometry constraints into our network architecture.
 
--structure: As for synthesis in the 3D space, we implement a cascaded network architecture with two hourglass modules to generate pointwise coarse and fine features from semantics and per-class latent vectors, followed by projection to frames and an upsampling module to obtain the final realistic video.
+- structure: As for synthesis in the 3D space, we implement a cascaded network architecture with two hourglass modules to generate pointwise coarse and fine features from semantics and per-class latent vectors, followed by projection to frames and an upsampling module to obtain the final realistic video.
 
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Sat2Vidstructure.png)
 
