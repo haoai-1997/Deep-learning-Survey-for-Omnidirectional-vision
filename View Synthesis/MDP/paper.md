@@ -27,6 +27,3 @@ metrics: **( PSNR, SSIM, L1)**
 
 - analysis:  We presented a novel 3D scene representation—Multi Depth Panoramas, or MDP—that represents complex scenes using multiple layers of concentric RGBDα panoramas. MDPs are more compact than prior scene representations such as **multiple plane images** （MPIs）. As such, they can be used to generate high-quality novel view synthesis results with translational motion parallax, using our proposed forward-splatting rendering method. Furthermore, we presented a learning-based method to accurately reconstruct MDPs from commercial 360◦ camera rigs.
 
-- **Limitation**:  
-1)Due to the material diversity gap between synthetic and real data, the intrinsic decomposition results on real data may not be as accurate as those on synthetic data.
-2) Although SOLID-Net estimates HDR lighting environment map to support realistic relighting effects, our lighting model is not suitable for generating animations that are sensitive at harsh lighting boundaries.
