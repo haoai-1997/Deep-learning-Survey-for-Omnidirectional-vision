@@ -11,8 +11,6 @@ We present PICCOLO, a simple and efficient algorithm for omnidirectional localiz
   (2) The gradient of our proposed sampling loss can be effi- ciently obtained with differentiable sampling
   (3) In addition, we introduce a new dataset called OmniScenes to highlight the practicality of PICCOLO.
 
-- Structure: BiFuse
-
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/PICCOLO.png" width="70%" height="70%">
 
 - Results：
