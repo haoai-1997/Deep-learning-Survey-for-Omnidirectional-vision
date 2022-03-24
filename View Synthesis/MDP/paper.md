@@ -13,7 +13,7 @@
 2) a learning-based method to convert images from common 360◦ camera setups into our MDP representation.
 3) an efficient novel view synthesis method based on MDP.
 
--structure: To train our method, we adopt a two-step training scheme. During the first step, we train the 3D CNN on the first dataset to output a per-view MPI volume. The first step is performed by selecting 6 neighboring views, using a random set of 5 as inputs and using the last image as a target view for supervision. During the second step, the 3D CNN is fine-tuned end-to-end with our second dataset by synthesizing a target view from its closest 5 cameras. 
+- structure: To train our method, we adopt a two-step training scheme. During the first step, we train the 3D CNN on the first dataset to output a per-view MPI volume. The first step is performed by selecting 6 neighboring views, using a random set of 5 as inputs and using the last image as a target view for supervision. During the second step, the 3D CNN is fine-tuned end-to-end with our second dataset by synthesizing a target view from its closest 5 cameras. 
 
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/MDPstructure.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/MDPstructure1.png)
