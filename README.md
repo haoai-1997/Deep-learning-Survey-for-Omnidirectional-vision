@@ -86,7 +86,7 @@
 ## [Outdoor Lighting Estimation](Outdoor\Lighting\Estimation)
 - Learning High Dynamic Range from Outdoor Panoramas
 - Spatially-Varying Outdoor Lighting Estimation from Intrinsics
-- 
+ 
 ## [Room Layout Estimation](Room\Layout\Estimation)
 - AtlantaNet: Inferring the 3D Indoor Layout from a Single 360◦ Image beyond the Manhattan World Assumption
 - Deep3DLayout: 3D Reconstruction of an Indoor Layout from a Spherical Panoramic Image
