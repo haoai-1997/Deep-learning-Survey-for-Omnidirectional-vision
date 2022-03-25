@@ -20,7 +20,10 @@
 - SPHERICAL CNNS
 
 ## [Data Synthesis](Data\Synthesis)
--BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-aided Adversarial Learning
+- BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-aided Adversarial Learning
+- Sat2Vid: Street-view Panoramic Video Synthesis from a Single Satellite Image
+- Snap Angle Prediction for 360◦ Panoramas
+
 
 ## [Dataset](Dataset)
 
