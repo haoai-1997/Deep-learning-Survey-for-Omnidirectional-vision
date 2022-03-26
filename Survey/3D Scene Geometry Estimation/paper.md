@@ -1,5 +1,4 @@
 ## 3D Scene Geometry Estimation from 360◦ Imagery: A Survey
-## Deep 360 Pilot: Learning a Deep Agent for Piloting through 360◦ Sports Videos
 
 - year: 2022
 
