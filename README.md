@@ -1,6 +1,6 @@
 # PaperList
 
-## [3D Scene](3D\Scene)
+## [3D Scene](3D%20Scene)
 
 - See360: Novel Panoramic View Interpolation
 
@@ -19,7 +19,7 @@
 - CONCENTRIC SPHERICAL GNN FOR 3D REPRESENTATION LEARNING
 - SPHERICAL CNNS
 
-## [Data Synthesis](Data\Synthesis)
+## [Data Synthesis](Data%20Synthesis)
 - BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-aided Adversarial Learning
 - Sat2Vid: Street-view Panoramic Video Synthesis from a Single Satellite Image
 - Snap Angle Prediction for 360◦ Panoramas
@@ -35,7 +35,7 @@
 - Matterport3D: Learning from RGB-D Data in Indoor Environments
 - A Saliency Dataset for 360-Degree Videos
 
-## [Depth Estimation](Depth\Estimation)
+## [Depth Estimation](Depth%20Estimation)
 - 360 Depth Estimation in the Wild -- The Depth360 Dataset and the SegFuse Network
 - 360MonoDepth: High-Resolution 360° Monocular Depth Estimation
 - ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation
@@ -50,19 +50,19 @@
 - OmniDepth: Dense Depth Estimation for Indoors Spherical Panoramas
 - Spherical View Synthesis for Self-Supervised 360-degree Depth Estimation
 
-## [Gaze estimation](Gaze\estimation)
+## [Gaze estimation](Gaze%20estimation)
 - Gaze360: Physically Unconstrained Gaze Estimation in the Wild
 
-## [Gaze following](Gaze\following)
+## [Gaze following](Gaze%20following)
 - Looking here or there? Gaze Following in 360-Degree Images
 - Gaze Prediction in Dynamic 360◦ Immersive Videos
 - Self-view Grounding Given a Narrated 360◦ Video
 - A Deep Ranking Model for Spatio-Temporal Highlight Detection from a 360-degree Video
 
-## [Image Compression](Image\Compression)
+## [Image Compression](Image%20Compression)
 - Pseudocylindrical Convolutions for LearnedOmnidirectional Image Compression
 
-## [Image Super-resolution](Image\Super-resolution)
+## [Image Super-resolution](Image%20Super-resolution)
 - LAU-Net: Latitude Adaptive Upscaling Network for Omnidirectional Image Super-resolution
 - SphereSR: 360-degree Image Super-Resolution with Arbitrary Projection via Continuous Spherical Image Representation
 
@@ -71,23 +71,23 @@
 - Panoramic Image Reflection Removal
 - Privacy Protection in Street-View Panoramas using Depth and Multi-View Imagery
 
-## [Object Detetction](Object\Detetction)
-- Field-of-View IoU for Object Detection in 360{\deg} Images
+## [Object Detetction](Object%20Detetction)
+- Field-of-View IoU for Object Detection in 360{%20deg} Images
 - Deep 360 Pilot: Learning a Deep Agent for Piloting through 360◦ Sports Videos
 - Spherical Criteria for Fast and Accurate 360-degree Object Detection
 - Kernel Transformer Networks for Compact Spherical Convolution
 
-## [Omnidirectional Localization](Omnidirectional\Localization)
+## [Omnidirectional Localization](Omnidirectional%20Localization)
 - PICCOLO: Point Cloud-Centric Omnidirectional Localization(traditional)
 
-## [Orientation Estimation](Orientation\Estimation)
+## [Orientation Estimation](Orientation%20Estimation)
 - Rotation Equivariant Orientation Estimation for Omnidirectional Localization
 
-## [Outdoor Lighting Estimation](Outdoor\Lighting\Estimation)
+## [Outdoor Lighting Estimation](Outdoor%20Lighting%20Estimation)
 - Learning High Dynamic Range from Outdoor Panoramas
 - Spatially-Varying Outdoor Lighting Estimation from Intrinsics
  
-## [Room Layout Estimation](Room\Layout\Estimation)
+## [Room Layout Estimation](Room%20Layout%20Estimation)
 - AtlantaNet: Inferring the 3D Indoor Layout from a Single 360◦ Image beyond the Manhattan World Assumption
 - Deep3DLayout: 3D Reconstruction of an Indoor Layout from a Spherical Panoramic Image
 - Pano2CAD: Room Layout From A Single Panorama Image
@@ -98,7 +98,7 @@
 - Joint 3D Layout and Depth Prediction from a Single Indoor Panorama Image
 
 
-## [Saliency Prediction](Saliency\Prediction)
+## [Saliency Prediction](Saliency%20Prediction)
 - Cube Padding for Weakly-Supervised Saliency Prediction in 360◦Videos
 - SalGCN: Saliency Prediction for 360-Degree Images Based on Spherical Graph Convolutional Networks
 - Rethinking 360° Image Visual Attention Modelling with Unsupervised Learning
@@ -106,7 +106,7 @@
 - Your Attention is Unique: Detecting 360-Degree Video Saliency in Head-Mounted Display for Head Movement Prediction
 
 
-## [Scene Understanding](Scene\Understanding)
+## [Scene Understanding](Scene%20Understanding)
 - DeepPanoContext: Panoramic 3D Scene Understanding with Holistic Scene Context Graph and Relation-based Optimization
 - PanoContext: A Whole-Room 3D Context Model for Panoramic Scene Understanding **(traditional)**
 - Lighting, Reflectance and Geometry Estimation from 360◦ Panoramic Stereo
@@ -115,30 +115,30 @@
 - Im2Pano3D: Extrapolating 360° Structure and Semantics Beyond the Field of View
 - Eliminating the Blind Spot: Adapting 3D Object Detection and Monocular Depth Estimation to 360◦ Panoramic Imagery
 
-## [Stereo Matching](Stereo\Matching)
+## [Stereo Matching](Stereo%20Matching)
 - OmniMVS: End-to-End Learning for Omnidirectional Stereo Matching
 
-## [Structure from Motion](Structure\from\Motion)
+## [Structure from Motion](Structure%20from%20Motion)
 - Extreme Structure from Motion for Indoor Panoramas without Visual Overlaps
 
-## [Video Compression](Video\Compression)
+## [Video Compression](Video%20Compression)
 - Learning Compressible 360◦Video Isomers
 
-## [Video Summarization](Video\Summarization)
+## [Video Summarization](Video%20Summarization)
 - A Memory Network Approach for Story-Based Temporal Summarization of 360° Videos
 
-## [View Synthesis](View\Synthesis)
+## [View Synthesis](View%20Synthesis)
 - Automatic Content-aware Projection for 360◦ Videos (traditional)
 - Deep Multi Depth Panoramas for View Synthesis
 - 
-## [Visual Quality Assessment](Visual\Quality\Assessment)
+## [Visual Quality Assessment](Visual%20Quality%20Assessment)
 - Viewport Proposal CNN for 360° Video Quality Assessment
-- Visual Question Answering on 360{\deg} Images
+- Visual Question Answering on 360{%20deg} Images
 
-## [VR Sickness Assessment](VR\Sickness\Assessment)
+## [VR Sickness Assessment](VR%20Sickness%20Assessment)
 - VRSA Net: VR Sickness Assessment Considering Exceptional Motion for 360° VR Video
 
-## [semantic segmentation](semantic\segmentation)
+## [semantic segmentation](semantic%20segmentation)
 - Transfer beyond the Field of View: Dense Panoramic Semantic Segmentation via Unsupervised Domain Adaptation
 - What’s in my Room? Object Recognition on Indoor Panoramic Images
 - Bending Reality: Distortion-aware Transformers for Adapting to Panoramic Semantic Segmentation
