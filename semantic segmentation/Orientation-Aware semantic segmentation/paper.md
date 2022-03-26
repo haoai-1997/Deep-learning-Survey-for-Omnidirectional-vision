@@ -25,4 +25,5 @@ cross-entropy loss
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/result_on_2D3DS.png)
 ![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/result_on_Omni-SYNTHIA.png)
 
-
+- limitation
+One limitation of the proposed approach is the poor segmentation accuracy for small objects (e.g. “pedestrian” and“cyclist”) which we attribute to unbalanced dataset.  
