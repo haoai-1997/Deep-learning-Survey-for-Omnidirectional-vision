@@ -17,15 +17,16 @@
 (2) We conduct extensive experiments for LayoutNet v2, DuLa-Net v2 and another state-of-the-art approach, HorizonNet.
 (3) We extend the Matterport3D dataset with general Manhattan layout annotations.
 
-- structure: We propose a video-based gaze-tracking model using bidirectional Long Short-Term Memory capsules.In this paper, we utilize sequences of 7 frames to predict the gaze of the central frame. Note that other sequence lengths including a single central frame alone are also possible.
+- structure: 
 
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Gaze360structure.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/layout%20reconstruction/Manhattan_DuLa-Net.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/layout%20reconstruction/Manhattan_HorizonNet.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/layout%20reconstruction/Manhattan_LayoutNet.png)
+
 
 
 - results：
-metrics: **(the mean angular errors )**
 
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Gaze360result.png)
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Gaze360result1.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/layout%20reconstruction/Manhattan_result.png)
 
-- analysis: We presented a new temporal appearance-based gaze model using a novel loss function to estimate error quantiles. Finally we demonstrated the value of (i) our dataset via careful crossdataset performance comparison versus three existing 3D gaze datasets, and (ii) our model via application to unconstrained unseen imagery from YouTube videos.
+- analysis: This is a detailed introduction for Layout estimation with 360 degree images.
