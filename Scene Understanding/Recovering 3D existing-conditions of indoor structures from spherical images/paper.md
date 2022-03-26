@@ -11,7 +11,7 @@ We first recover the underlying 3D structure as interconnected rooms bounded by 
 
 - structure: 
 
-![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/R3Dstructure.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/R3Dstructure.png)
 
 - results：
 
