@@ -1,4 +1,4 @@
-## Gaze360: Physically Unconstrained Gaze Estimation in the Wild
+## Manhattan Room Layout Reconstruction from a Single 360 image: A Comparative Study of State-of-the-art Methods
 
 - year: 2020
 
