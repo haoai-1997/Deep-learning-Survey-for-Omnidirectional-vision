@@ -1,4 +1,5 @@
 ## Viewport Proposal CNN for 360° Video Quality Assessment
+## Viewport-Based CNN: A Multi-Task Approach for Assessing 360 Video Quality
 
 - year: 2019
 
