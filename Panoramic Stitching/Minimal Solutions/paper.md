@@ -1,21 +1,10 @@
-## BiFuse: Monocular 360-degree Depth Estimation via Bi-Projection Fusion
+## Minimal Solutions for Panoramic Stitching Given Gravity Prior
 
-- year: 2020
+- year: 2021
 
-- dataset: Stanford2D3D dataset, 3D60 dataset, PanoSUNCG dataset and Matterport3D dataset
+- dataset: SUN360 panorama dataset, and Smartphone dataset (self-collected)
 
-- Abstract: we propose to predict the depth map of a monocular 360-degree image by mimicking both peripheral and foveal vision of the human eye. To this end, we adopt a two-branch neural network lever- aging two common projections: equirectangular and cubemap projections.
-- Contributions:
-  (1) We propose an end-to-end two-branch network, which incorporates both equirectangular and cubemap projections, to mimic the combination of peripheral and foveal vision of the human eye, respectively.
-  (2) To share the information of different projections, we propose a bi-projection fusion procedure with learnable masks to balance the information from two projections.
-  (3) We propose spherical padding to extend the field-of-view of cubemap projection and reduce the boundary inconsistency of each face.
+- Abstract: We propose new minimal solutions to panoramic stitching of images taken by cameras with coinciding optical centers. We consider six practical cam- era configurations, from fully calibrated ones up to a camera with unknown fixed or varying focal length and with or without radial distortion. The solvers are tested both on synthetic scenes, on more than 500k real image pairs from the Sun360 dataset, and from scenes captured by us using two smartphones equipped with IMUs.
 
-- Structure: BiFuse
-
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/BiFuse.png" width="70%" height="70%">
-
-- Results：
-  <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/BiFuse_exp1.png" width="50%" height="50%">
-  <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/BiFuse_exp2.png" width="50%" height="50%">
-
--Analysis: Utilize two projection formats of 360-degree images to better extracting and fusing information.
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/stitch_1.png" width="70%" height="70%">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/stitch_2.png" width="70%" height="70%">
