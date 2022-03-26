@@ -1,9 +1,5 @@
 # PaperList
 
-## [3D Scene](3D%20Scene)
-
-- See360: Novel Panoramic View Interpolation
-
 ## [3D reconstruction](3D%20reconstruction)
 
 - Efficient 3D Room Shape Recovery **(traditional)**
@@ -50,14 +46,15 @@
 - OmniDepth: Dense Depth Estimation for Indoors Spherical Panoramas
 - Spherical View Synthesis for Self-Supervised 360-degree Depth Estimation
 
-## [Gaze estimation](Gaze%20estimation)
-- Gaze360: Physically Unconstrained Gaze Estimation in the Wild
+## [Highlight detection](Highlight%20detection)
+- See360: Novel Panoramic View Interpolation
+- A Deep Ranking Model for Spatio-Temporal Highlight Detection from a 360-degree Video
 
-## [Gaze following](Gaze%20following)
+## [Gaze following/Gaze estimation](Gaze%20following)
 - Looking here or there? Gaze Following in 360-Degree Images
 - Gaze Prediction in Dynamic 360◦ Immersive Videos
 - Self-view Grounding Given a Narrated 360◦ Video
-- A Deep Ranking Model for Spatio-Temporal Highlight Detection from a 360-degree Video
+- Gaze360: Physically Unconstrained Gaze Estimation in the Wild
 
 ## [Image Compression](Image%20Compression)
 - Pseudocylindrical Convolutions for LearnedOmnidirectional Image Compression
