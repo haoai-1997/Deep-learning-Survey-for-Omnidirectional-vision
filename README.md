@@ -5,7 +5,7 @@
 - Efficient 3D Room Shape Recovery **(traditional)**
 - MVLayoutNet: 3D layout reconstruction with multi-view panoramas
 - HeadFusion: 360◦Head Pose tracking combining3D Morphable Model and 3D Reconstruction
-
+- Manhattan Room Layout Reconstruction from a Single 360◦ image: A Comparative Study of State-of-the-art Methods
 
 ## [CNN](CNN)
 
