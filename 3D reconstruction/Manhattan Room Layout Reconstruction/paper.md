@@ -14,6 +14,6 @@ Recent approaches for predicting layouts from360◦ panoramas produce excellent 
 
 - structure:
 
-![image]("https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/3D reconstruction/3D_Manhattan_Room_Layout_framwork_1.png")
-![image]("https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/3D reconstruction/3D_Manhattan_Room_Layout_framwork_2.png")
-![image]("https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/3D reconstruction/3D_Manhattan_Room_Layout_framwork_3.png")
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/3D%20reconstruction/3D_Manhattan_Room_Layout_framwork_1.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/3D%20reconstruction/3D_Manhattan_Room_Layout_framwork_2.png)
+![image](https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/3D%20reconstruction/3D_Manhattan_Room_Layout_framwork_3.png)
