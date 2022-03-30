@@ -1,6 +1,7 @@
 ## traditional convolutions
 - Look Around You: Saliency Maps for Omnidirectional Images in VR Applications 2017
 - SalNet360: Saliency Maps for omni-directional images with CNN
+- 360-degree visual saliency detection based on fast-mapped convolution and adaptive equator-bias perception
 ## panoramic convolutions
 Panoramic convolutions for 360o single-image saliency prediction
 
