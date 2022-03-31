@@ -9,7 +9,6 @@
 - Pano Popups: Indoor 3D Reconstruction with a Plane-Aware Network
 - Robust 3D reconstruction with omni-directional camera based on structure from motion
 - CAN WE USE LOW-COST 360 DEGREE CAMERAS TO CREATE ACCURATE 3D MODELS
-- Robust 3D reconstruction with omni-directional camera based on structure from motion
 
 ## [CNN](CNN)
 
