@@ -7,6 +7,8 @@
 - HeadFusion: 360◦Head Pose tracking combining3D Morphable Model and 3D Reconstruction
 - Manhattan Room Layout Reconstruction from a Single 360◦ image: A Comparative Study of State-of-the-art Methods
 - Pano Popups: Indoor 3D Reconstruction with a Plane-Aware Network
+- Robust 3D reconstruction with omni-directional camera based on structure from motion
+
 
 ## [CNN](CNN)
 
