@@ -1,0 +1,7 @@
+## CAN WE USE LOW-COST 360 DEGREE CAMERAS TO CREATE ACCURATE 3D MODELS
+
+- conference:  The International Archives of the Photogrammetry 2018
+
+- abstract: 360 degree cameras capture the whole scene around a photographer in a single shot. Cheap 360 cameras are a new paradigm in photogrammetry. The camera can be pointed to any direction, and the large field of view reduces the number of photographs. This paper aims to show that accurate metric reconstructions can be achieved with affordable sensors (less than 300 euro). The camera used in this work is the Xiaomi Mijia Mi Sphere 360, which has a cost of about 300 USD (January 2018). Experiments demonstrate that millimeter-level accuracy can be obtained during the image orientation and surface reconstruction steps, in which the solution from 360° images was compared to check points measured with a total station and laser scanning point clouds. The paper will summarize some practical rules for image acquisition as well as the importance of ground control points to remove possible deformations of the network during bundle adjustment, especially for long sequences with unfavorable geometry. The generation of orthophotos from images having a 360° field of view (that captures the entire scene around the camera) is discussed. Finally, the paper illustrates some case studies where the use of a 360° camera could be a better choice than a project based on central perspective cameras. Basically, 360° cameras become very useful in the survey of long and narrow spaces, as well as interior areas like small rooms.
+
+
