@@ -8,7 +8,8 @@
 - Manhattan Room Layout Reconstruction from a Single 360◦ image: A Comparative Study of State-of-the-art Methods
 - Pano Popups: Indoor 3D Reconstruction with a Plane-Aware Network
 - Robust 3D reconstruction with omni-directional camera based on structure from motion
-
+- CAN WE USE LOW-COST 360 DEGREE CAMERAS TO CREATE ACCURATE 3D MODELS
+- Robust 3D reconstruction with omni-directional camera based on structure from motion
 
 ## [CNN](CNN)
 
