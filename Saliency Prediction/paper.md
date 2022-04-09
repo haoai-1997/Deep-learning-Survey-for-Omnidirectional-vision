@@ -22,3 +22,9 @@ SalNet360: Saliency Maps for omni-directional images with CNN
 
 ## multi-type fusion input
 - SalBiNet360
+- Graph Learning Based Head Movement Prediction for Interactive 360 Video Streaming
+- Saliency Prediction on Omnidirectional Image With Generative Adversarial Imitation Learning
+- Optimizing Fixation Prediction Using Recurrent Neural Networks for 360∘ Video Streaming in Head-Mounted Virtual Reality
+- Saliency Detection in 360∘ Videos
+- ATSal: An Attention Based Architecture for Saliency Prediction in 360 ◦ Videos
+- The Prediction of Saliency Map for Head and Eye Movements in 360 Degree Images
