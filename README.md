@@ -1,3 +1,16 @@
+## Citation
+If you found our survey helpful for your research, please cite our paper as:
+
+```
+@article{Ai2022DeepLF,
+  title={Deep Learning for Omnidirectional Vision: A Survey and New Perspectives},
+  author={Hao Ai and Zidong Cao and Jin Zhu and Haotian Bai and Yucheng Chen and Ling Wang},
+  journal={ArXiv},
+  year={2022},
+  volume={abs/2205.10468}
+}
+```
+
 # PaperList
 
 ## [3D reconstruction](3D%20reconstruction)
