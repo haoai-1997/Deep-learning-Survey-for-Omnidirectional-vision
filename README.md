@@ -1,17 +1,22 @@
-## Citation
-If you found our survey helpful for your research, please cite our paper as:
+# &diams; Deep Learning for Omnidirectional Vision: A Survey and New Perspectives
 
-```
-@article{Ai2022DeepLF,
-  title={Deep Learning for Omnidirectional Vision: A Survey and New Perspectives},
-  author={Hao Ai and Zidong Cao and Jin Zhu and Haotian Bai and Yucheng Chen and Ling Wang},
-  journal={ArXiv},
-  year={2022},
-  volume={abs/2205.10468}
-}
-```
+<div align=center>
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/main_page/survey.png" width="1000" height="480">
+</div>
 
-# PaperList
+**Referenced paper** : [Deep Learning for Omnidirectional Vision: A Survey and New Perspectives](https://arxiv.org/abs/2205.10468)
+
+## Table of Content
+### &hearts; [Introduction](Introduction)
+
+ &nbsp; &nbsp; &nbsp; &nbsp; Omnidirectional image (ODI) data is captured with a  360°×180°  field-of-view and omnidirectional vision has attracted booming attention due to its more advantageous performance in numerous applications. Our survey presents a systematic and comprehensive review and analysis of the recent progress in Deep Learning methods for omnidirectional vision. 
+ 
+ &nbsp; &nbsp; &nbsp; &nbsp; **Especially, we create this open-source repository to provide a taxonomy of all the mentioned works and code links in the survey. We will keep updating our open-source repository with new works in this area and hope it can shed light on future research and build a community for researchers on omnidirectional vision.**
+### &hearts; [Background](Background)
+### &hearts; [Omnidirectional Vision Tasks](Tasks)
+### &hearts; [Novel Learning Strategies](Novel%Learning%20Strategies)
+### &hearts; [Applications](Applications)
+### &hearts; [Disscussion and New Perspectives](New%20Perspectives)
 
 ## [3D reconstruction](3D%20reconstruction)
 
@@ -199,4 +204,16 @@ If you found our survey helpful for your research, please cite our paper as:
 - Capturing Omni-Range Context for Omnidirectional Segmentation
 - Orientation-Aware Semantic Segmentation on Icosahedron Spheres
 
+## Citation
+If you found our survey helpful for your research, please cite our paper as:
+
+```
+@article{Ai2022DeepLF,
+  title={Deep Learning for Omnidirectional Vision: A Survey and New Perspectives},
+  author={Hao Ai and Zidong Cao and Jin Zhu and Haotian Bai and Yucheng Chen and Ling Wang},
+  journal={ArXiv},
+  year={2022},
+  volume={abs/2205.10468}
+}
+```
 
