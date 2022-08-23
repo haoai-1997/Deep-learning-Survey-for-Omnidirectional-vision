@@ -9,10 +9,12 @@
 ## Table of Content
 ### &hearts; [Introduction](Introduction)
 
- &nbsp; &nbsp; &nbsp; &nbsp; Omnidirectional image (ODI) data is captured with a  360°×180°  field-of-view and omnidirectional vision has attracted booming attention due to its more advantageous performance in numerous applications. Our survey presents a systematic and comprehensive review and analysis of the recent progress in Deep Learning methods for omnidirectional vision. 
+&nbsp; &nbsp; &nbsp; &nbsp; Omnidirectional image (ODI) data is captured with a  360°×180°  field-of-view and omnidirectional vision has attracted booming attention due to its more advantageous performance in numerous applications. Our survey presents a systematic and comprehensive review and analysis of the recent progress in Deep Learning methods for omnidirectional vision. 
  
- &nbsp; &nbsp; &nbsp; &nbsp; **Especially, we create this open-source repository to provide a taxonomy of all the mentioned works and code links in the survey. We will keep updating our open-source repository with new works in this area and hope it can shed light on future research and build a community for researchers on omnidirectional vision.**
+&nbsp; &nbsp; &nbsp; &nbsp; **Especially, we create this open-source repository to provide a taxonomy of all the mentioned works and code links in the survey. We will keep updating our open-source repository with new works in this area and hope it can shed light on future research and build a community for researchers on omnidirectional vision.**
 ### &hearts; [Background](Background)
+#### **Acquisition**
+An ideal 360&deg; camera can capture lights falling on the focal point from all directions, making the projection plane a whole spherical surface. In practice, most 360&deg; cameras can not achieve it, which excludes top and bottom regions due to dead angles
 ### &hearts; [Omnidirectional Vision Tasks](Tasks)
 ### &hearts; [Novel Learning Strategies](Novel%Learning%20Strategies)
 ### &hearts; [Applications](Applications)
