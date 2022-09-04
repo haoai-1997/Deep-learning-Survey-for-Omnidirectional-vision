@@ -30,13 +30,13 @@ There are specific distortions in 360&deg; images of equirectangular projections
 &nbsp; &nbsp; &nbsp; &nbsp; The proposed approach has the following three points: (1) *to simplify the problem, they solve an inside completion problem instead of an outside completion problem by rearranging images*; (2) *In order to recognize the distortion that exists over a wide range of a 360-degree image and to generate distortions that are consistent between the input and output, we use dilated convolution layers*; (3) *They performtwo-stage generation to improve the quality of the final outputs*. 
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/51b78fc42016c5bbb34dee078edcea964d9b2808/Images/Task/Image&Video%20Manipulation/360%20Image%20Generation%20with%20Gans%20dilated.png" width="400" height="350"><img src="https://github.com/VLISLAB/360-DL-Survey/blob/51b78fc42016c5bbb34dee078edcea964d9b2808/Images/Task/Image&Video%20Manipulation/360%20Image%20Generation%20with%20Gans%20rearranging.png" width="400" height=350">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/51b78fc42016c5bbb34dee078edcea964d9b2808/Images/Task/Image&Video%20Manipulation/360%20Image%20Generation%20with%20Gans%20dilated.png" width="340" height="280"><img src="https://github.com/VLISLAB/360-DL-Survey/blob/51b78fc42016c5bbb34dee078edcea964d9b2808/Images/Task/Image&Video%20Manipulation/360%20Image%20Generation%20with%20Gans%20rearranging.png" width="460" height=280">
 </div>
 
 - **Experimental Results**：
   
-  <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/0d1e83e40dda330c46157a5fff8c708665fc9213/Images/Task/Image&Video%20Manipulation/360%20Image%20Generation%20with%20Gans%20results1.png" width="500" height="250">
+<div align=center>
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/0d1e83e40dda330c46157a5fff8c708665fc9213/Images/Task/Image&Video%20Manipulation/360%20Image%20Generation%20with%20Gans%20results1.png" width="800" height="400">
 </div>
   
 <div align=center>
