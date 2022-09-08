@@ -43,11 +43,15 @@
 &nbsp; &nbsp; &nbsp; &nbsp; For the sake of comparison, the authors evaluated the proposed method on both SSIM and PSNR. The baseline consists of two part. For the FoV estimation, DeepFocal (estimates the horizontal FOV of a single image using pre-trained features on AlexNet architecture) is employed as the baseline. And for the panorama synthesis,  pix2pixHD (conditional GANs) is applied as the baseline.
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Task/Image&Video Manipulation/360 panorama synthesis with multi-scale result1.png" width="450" height="240">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Task/Image&Video Manipulation/360 panorama synthesis with multi-scale result1.png" width="800" height="450">
 </div>
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Task/Image&Video Manipulation/360 panorama synthesis with multi-scale result2.png" width="800" height="900">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Task/Image&Video Manipulation/360 panorama synthesis with multi-scale result2.png" width="800" height="450">
+</div>
+
+<div align=center>
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Task/Image&Video Manipulation/360 panorama synthesis with multi-scale result3.png" width="800" height="450">
 </div>
 
 - **Limitations (provided by the authors)**：
