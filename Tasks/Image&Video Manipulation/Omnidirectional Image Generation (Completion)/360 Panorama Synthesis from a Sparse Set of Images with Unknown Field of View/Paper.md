@@ -33,7 +33,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; **The first step** is relative FoV estimation. As the typical scene captured with standard camera normally have a FOV less than 90&deg;, the four input images are disconnected or without any overlap. The network takes smaller FOV images as the inputs and estimates the relative FOV, as shown in the following firgures. **CNN architecture is utilized to solve the FOV estimation task.**
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/a207527aa8c2a1437c390a15a73772badf9e7e60/Images/Task/Image&Video%20Manipulation/360 panorama synthesis with multi-scale fov.png" width="400" height="150">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/eacf7e77b53b1e5004fef5ea8f75b9427130f69b/Images/Task/Image&Video%20Manipulation/360%20panorama%20synthesis%20with%20multi-scale%20fov.png" width="700" height="250">
 </div>
 
 &nbsp; &nbsp; &nbsp; &nbsp; **The second step** is panorama synthesis with a hierarchical approach. The generator consists of three sub-networks, namely $G^s$ , $G^m$ , and $G^l$ , each corresponding to a different scale.  **Weight parameters learned from the previous scale are reused and fine-tuned at each increased scale. This training process is repeated until the original scale is reached.**
@@ -47,11 +47,11 @@
 </div>
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Task/Image&Video Manipulation/360 panorama synthesis with multi-scale result2.png" width="800" height="450">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Task/Image&Video Manipulation/360 panorama synthesis with multi-scale result2.png" width="500" height="150">
 </div>
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Task/Image&Video Manipulation/360 panorama synthesis with multi-scale result3.png" width="800" height="450">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Task/Image&Video Manipulation/360 panorama synthesis with multi-scale result3.png" width="800" height="650">
 </div>
 
 - **Limitations (provided by the authors)**：
