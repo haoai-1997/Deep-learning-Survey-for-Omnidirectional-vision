@@ -1,3 +1,5 @@
+# (We are updating the information and adjusting the pages on this code! If you want to provide some good papers, please send us on the issues! Hope that we can work together for the omnidirectional vision!)
+
 # &diams; Deep Learning for Omnidirectional Vision: A Survey and New Perspectives
 
 <div align=center>
