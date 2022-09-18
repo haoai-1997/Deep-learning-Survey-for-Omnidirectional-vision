@@ -23,6 +23,17 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Omnidirectional Image Generation (Completion)](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion))
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**360 Panorama Synthesis from a Sparse Set of Images with Unknown Field of View**](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/360%20Panorama%20Synthesis%20from%20a%20Sparse%20Set%20of%20Images%20with%20Unknown%20Field%20of%20View)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**360-Degree Image Completion by Two-Stage Conditional Gans**](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/360-Degree%20Image%20Completion%20by%20Two-Stage%20Conditional%20Gans)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-aided Adversarial Learning (RGB and Depth)**](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/BIPS:%20Bi-modal%20Indoor%20Panorama%20Synthesis%20via%20Residual%20Depth-aided%20Adversarial%20Learning)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [<font color=red> **Diverse Plausible 360-Degree Image Outpainting for Efficient 3DCG Background Creation** </font>](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/Diverse%20Plausible%20360-Degree%20Image%20Outpainting%20for%20Efficient%203DCG%20Background%20Creation)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [**Spherical Image Generation from a Single Normal Field of View Image by Considering Scene Symmetry**](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/Spherical%20Image%20Generation%20from%20a%20Single%20Normal%20Field%20of%20View%20Image%20by%20Considering%20Scene%20Symmetry)
+
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Omnidirectional Image&Video Compression](Tasks/Image&Video%20Manipulation/Omnidirectional%20Image&Video%20Compression)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Omnidirectional Image&Video Cross-View Synthesis](Tasks/Image&Video%20Manipulation/Omnidirectional%20Image&Video%20Cross-View%20Synthesis)
