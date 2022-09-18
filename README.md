@@ -19,9 +19,21 @@
 An ideal 360&deg; camera can capture lights falling on the focal point from all directions, making the projection plane a whole spherical surface. In practice, most 360&deg; cameras can not achieve it, which excludes top and bottom regions due to dead angles
 ### &hearts; [Omnidirectional Vision Tasks](Tasks)
 
-&nbsp; &nbsp; &nbsp; &nbsp; :smiley: [Image&Video Manipulation](Image&Video%20Manipulation)
+&nbsp; &nbsp; &nbsp; &nbsp; :smiley: [***Image&Video Manipulation***](Tasks/Image%26Video%20Manipulation)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Omnidirectional Image Generation (Completion)] (Tasks/Image&Video%20Manipulation/Omnidirectional Image Generation (Completion))
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Omnidirectional Image Generation (Completion)](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion))
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Omnidirectional Image&Video Compression](Tasks/Image&Video%20Manipulation/Omnidirectional%20Image&Video%20Compression)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Omnidirectional Image&Video Cross-View Synthesis](Tasks/Image&Video%20Manipulation/Omnidirectional%20Image&Video%20Cross-View%20Synthesis)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Omnidirectional Image&Video Lighting Estimation](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion))
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Omnidirectional Image&Video Super-Resolution](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%26Video%20Super-Resolution)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Omnidirectional Image&Video Upright Adjustment](Tasks/Image&Video%20Manipulation/Omnidirectional%20Image&Video%20Upright%20Adjustment)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Omnidirectional Image&Video Visual Quality Assessment](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%26Video%20Visual%20Quality%20Assessment)
 
 ### &hearts; [Novel Learning Strategies](Novel%Learning%20Strategies)
 ### &hearts; [Applications](Applications)
