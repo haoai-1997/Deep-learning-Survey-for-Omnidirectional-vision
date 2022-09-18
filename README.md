@@ -18,6 +18,11 @@
 #### **Acquisition**
 An ideal 360&deg; camera can capture lights falling on the focal point from all directions, making the projection plane a whole spherical surface. In practice, most 360&deg; cameras can not achieve it, which excludes top and bottom regions due to dead angles
 ### &hearts; [Omnidirectional Vision Tasks](Tasks)
+
+&nbsp; &nbsp; &nbsp; &nbsp; :smiley: [Image&Video Manipulation](Image&Video%20Manipulation)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Omnidirectional Image Generation (Completion)] (Tasks/Image&Video%20Manipulation/Omnidirectional Image Generation (Completion))
+
 ### &hearts; [Novel Learning Strategies](Novel%Learning%20Strategies)
 ### &hearts; [Applications](Applications)
 ### &hearts; [Disscussion and New Perspectives](New%20Perspectives)
