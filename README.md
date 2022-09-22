@@ -23,7 +23,7 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Omnidirectional Image Generation (Completion)](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion))
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **360 Panorama Synthesis from a Sparse Set of Images with Unknown Field of View**  [Paper](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/360%20Panorama%20Synthesis%20from%20a%20Sparse%20Set%20of%20Images%20with%20Unknown%20Field%20of%20View) [Code](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/360%20Panorama%20Synthesis%20from%20a%20Sparse%20Set%20of%20Images%20with%20Unknown%20Field%20of%20View/Code.md)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **360 Panorama Synthesis from a Sparse Set of Images with Unknown Field of View**  [Paper](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/360%20Panorama%20Synthesis%20from%20a%20Sparse%20Set%20of%20Images%20with%20Unknown%20Field%20of%20View) [Code](https://github.com/kimsoojie/lab_vcl_360panorama)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **360-Degree Image Completion by Two-Stage Conditional Gans** [Paper](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/360-Degree%20Image%20Completion%20by%20Two-Stage%20Conditional%20Gans) [Code](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/360-Degree%20Image%20Completion%20by%20Two-Stage%20Conditional%20Gan/Code.mds)
 
