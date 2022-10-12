@@ -20,7 +20,7 @@
 - **Proposing Framework**:
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/e1c2300ccfdabebdd2bf414e3d3a6b701c28f746/Images/text2pano2.png" width="1000" height="600">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/e1c2300ccfdabebdd2bf414e3d3a6b701c28f746/Images/text2pano2.png" width="1000" height="650">
 </div>
 
 &nbsp; &nbsp; &nbsp; &nbsp; The authors presented Text2Light, the first framework for zero-shot text-driven HDR panorama generation. Due to the complexity of HDR panorama in detailed textures, spherical structure, and high dynamic range, the authors decomposed the generation process into two dedicated stages. 1) Stage I generates a 360-degree panorama in low dynamic range (LDR) and low resolution (LR) given a description of the scene as the input. 2) Stage II upscales the result of Stage I both in resolution and dynamic range by a super-resolution inverse tone mapping operator (SR-iTMO).
@@ -28,22 +28,16 @@
 
 - **Experimental Results**：
 
-&nbsp; &nbsp; &nbsp; &nbsp; As a quantitative metric, Fr ́echet inception distance (FID) is employed to evaluate the quality and diversity of the generated images
+&nbsp; &nbsp; &nbsp; &nbsp; As a quantitative metric, Fr ́echet inception distance (FID), Inception Score (IS), perceptual quality (PQ) and structural integrity (SI) are employed to evaluate the quality and diversity of the generated images
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/e236f65832229c48b85c23ce1e35680bdc4bcbc4/Images/Task/Image&Video%20Manipulation/360%20Image%20Generation%20with%20Gans%20results1.png" width="750" height="300">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/0b5649bbe1131424c944d0cad8bd3001d10a1846/Images/text2pano3.png" width="500" height="900">
 </div>
 
-<div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/e236f65832229c48b85c23ce1e35680bdc4bcbc4/Images/Task/Image&Video%20Manipulation/360%20Image%20Generation%20with%20Gans%20results2.png" width="450" height="240">
-</div>
 
-<div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/e236f65832229c48b85c23ce1e35680bdc4bcbc4/Images/Task/Image&Video%20Manipulation/360%20Image%20Generation%20with%20Gans%20results3.png" width="450" height="200">
-</div>
  
 - **Limitations (provided in the paper)**：
 
-&nbsp; &nbsp; &nbsp; &nbsp; (1) **Inference time and computational memory**. Our method takes approximately 30 s for one completion on a single 2080Ti, mainly because of a transformer. However, since 3DCG designers, the subject of our work, are likely to use PCs and servers with high-end GPUs, the performance of our method may be sufficient for practical use.
+&nbsp; &nbsp; &nbsp; &nbsp; (1) **Text Bias.**. Since authors did not use any paired data for text-driven synthesis, the performance relies on CLIP model. Interestingly, authors observed that CLIP tends to be **biased on some word-image pairs** in our framework.
 
-&nbsp; &nbsp; &nbsp; &nbsp; (2) **Controllability**. The proposed method does not control what is generated in the completion region. One possible solution is to paste an object that appears directly in the completion region and complete it so that it is smoothly connected.
+&nbsp; &nbsp; &nbsp; &nbsp; (2) **Uncommon Scenery**. Text2Light cannot synthesize scene-level contents that are uncommon in the dataset.
