@@ -31,7 +31,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; As a quantitative metric, Fr ́echet inception distance (FID), Inception Score (IS), perceptual quality (PQ) and structural integrity (SI) are employed to evaluate the quality and diversity of the generated images
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/0b5649bbe1131424c944d0cad8bd3001d10a1846/Images/text2pano3.png" width="500" height="600">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/0b5649bbe1131424c944d0cad8bd3001d10a1846/Images/text2pano3.png" width="500" height="550">
 </div>
 
 
