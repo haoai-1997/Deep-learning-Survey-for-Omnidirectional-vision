@@ -53,8 +53,7 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **BiFuse: Monocular 360-degree Depth Estimation via Bi-Projection Fusion (2020)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/BiFuse) [**Code**](https://github.com/Yeh-yu-hsuan/BiFuse)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **## 360MonoDepth: High-Resolution 360° Monocular Depth Estimation
- (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/360MonoDepth) [**Code**](https://github.com/manurare/360monodepth)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **360MonoDepth: High-Resolution 360° Monocular Depth Estimation (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/360MonoDepth) [**Code**](https://github.com/manurare/360monodepth)
 
 ### &hearts; [Novel Learning Strategies](Novel%Learning%20Strategies)
 ### &hearts; [Applications](Applications)
