@@ -93,6 +93,7 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/M3PT) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/M3PT/Code.md)
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Self-supervised indoor 360- degree depth estimation via structural regularization (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SSIDE) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SSIDE/Code.md)
 
 ### &hearts; [Novel Learning Strategies](Novel%Learning%20Strategies)
 ### &hearts; [Applications](Applications)
