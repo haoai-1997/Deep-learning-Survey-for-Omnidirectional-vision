@@ -25,7 +25,7 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **360 Panorama Synthesis from a Sparse Set of Images with Unknown Field of View**  [Paper](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/360%20Panorama%20Synthesis%20from%20a%20Sparse%20Set%20of%20Images%20with%20Unknown%20Field%20of%20View) [**Code**](https://github.com/kimsoojie/lab_vcl_360panorama)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **360-Degree Image Completion by Two-Stage Conditional Gans** [Paper](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/360-Degree%20Image%20Completion%20by%20Two-Stage%20Conditional%20Gans) [Code](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/360-Degree%20Image%20Completion%20by%20Two-Stage%20Conditional%20Gan/Code.mds)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **360-Degree Image Completion by Two-Stage Conditional Gans** [Paper](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/360-Degree%20Image%20Completion%20by%20Two-Stage%20Conditional%20Gans) [Code](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/360-Degree%20Image%20Completion%20by%20Two-Stage%20Conditional%20Gan/Code.md)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-aided Adversarial Learning (RGB and Depth)**[Paper](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/BIPS:%20Bi-modal%20Indoor%20Panorama%20Synthesis%20via%20Residual%20Depth-aided%20Adversarial%20Learning) [Code](Tasks/Image%26Video%20Manipulation/Omnidirectional%20Image%20Generation%20(Completion)/BIPS:%20Bi-modal%20Indoor%20Panorama%20Synthesis%20via%20Residual%20Depth-aided%20Adversarial%20Learning/Code.md)
 
@@ -51,9 +51,48 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Monocular Depth Estimation](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation)
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Distortion-Aware Convolutional Filters for Dense Prediction in Panoramic Images
+(2018)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/DAC) [**Code**](https://github.com/tdsuper/Distortion-aware-CNNs)
+
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **OmniDepth: Dense Depth Estimation for Indoors Spherical Panoramas (2018)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/OmniDepth) [**Code**](https://github.com/meder411/OmniDepth-PyTorch)
+ 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Spherical View Synthesis for Self-Supervised 360-degree Depth Estimation (2019)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SphericalVS) [**Code**](https://github.com/VCL3D/SphericalViewSynthesis)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Pano Popups: Indoor 3D Reconstruction with a Plane-Aware Network. (2019)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/PanoPopups) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/PanoPopups/Code.md)
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **BiFuse: Monocular 360-degree Depth Estimation via Bi-Projection Fusion (2020)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/BiFuse) [**Code**](https://github.com/Yeh-yu-hsuan/BiFuse)
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Geometric Structure Based and Regularized Depth Estimation From 360-degree Indoor Imagery
+ (2020)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/GSOMDE) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/GSOMDE/Code.md)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **PADENet: An Efficient and Robust Panoramic Monocular Depth Estimation Network for Outdoor Scenes (2020)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/PADENet) [Code](https://github.com/zzzkkkyyy/PADENet))
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **UniFuse: Unidirectional Fusion for 360° Panorama Depth Estimation
+ (2021)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/UniFuse) [**Code**](https://github.com/alibaba/UniFuse-Unidirectional-Fusion)
+ 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning (2021)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/IMDE) [**Code**](https://github.com/yuniw18/Joint_360depth)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **SliceNet: deep dense depth estimation from a single indoor panorama using a slice-based representation (2021)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SliceNet) [**Code**](https://github.com/crs4/SliceNet)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **PanoDepth: A Two-Stage Approach for Monocular Omnidirectional Depth Estimation
+(2021)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/PanoDepth) [**Code**](https://github.com/yuyanli0831/PanoDepth)
+ 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **OmniFusion : 360 Monocular Depth Estimation via Geometry-Aware Fusion (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/OmniFusion) [**Code**](https://github.com/yuyanli0831/OmniFusion)
+  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **360MonoDepth: High-Resolution 360° Monocular Depth Estimation (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/360MonoDepth) [**Code**](https://github.com/manurare/360monodepth)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/ACDNet) [**Code**](https://github.com/zcq15/ACDNet)
+ 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **GLPanoDepth: Global-to-Local Panoramic Depth Estimation (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/GLPanoDepth) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/GLPanoDepth/Code.md)
+ 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **360 Depth Estimation in the Wild: The Depth360 Dataset and the SegFuse Network (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SegFuse) [**Code**](https://github.com/HAL-lucination/segfuse)
+ 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Deep Depth Estimation on 360° Images with a Double Quaternion Loss (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/DQL) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/DQL/Code.md)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **PanoFormer: Panorama Transformer for Indoor 360 Depth Estimation (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/PanoPopups) [**Code**](https://github.com/zhijieshen-bjtu/PanoFormer)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/M3PT) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/M3PT/Code.md)
+
 
 ### &hearts; [Novel Learning Strategies](Novel%Learning%20Strategies)
 ### &hearts; [Applications](Applications)
