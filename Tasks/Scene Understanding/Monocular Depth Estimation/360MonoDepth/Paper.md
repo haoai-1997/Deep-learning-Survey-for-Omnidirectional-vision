@@ -4,7 +4,7 @@
 
 - **Publication Conference**: CVPR
 
-- **Experimental Dataset**:  Outdoor panoramic images from Sun360 Dataset (Not avaliable Now)
+- **Experimental Dataset**:  Matterport3D and Replica datasets (High-resolution and high-quality)
 
 - **Motivation**:
 
