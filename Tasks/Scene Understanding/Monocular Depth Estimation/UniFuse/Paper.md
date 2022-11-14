@@ -33,5 +33,5 @@
 
 - **Experimental Results**：
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/depth%20estimation/UniFuse_results.png" width="800" height="450">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/depth%20estimation/UniFuse_results.png" width="800" height="500">
 </div>
