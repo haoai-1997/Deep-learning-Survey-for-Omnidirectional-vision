@@ -21,7 +21,7 @@ CNN-based methods do not support such high resolutions due to limited GPU memory
 
 - **Proposing Framework**:
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/depth%20estimation/360Momodepth_framework.png" width="800" height="600">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/depth%20estimation/360Momodepth_framework.png" width="800" height="350">
 </div>
 
 - **Experimental Results**：
