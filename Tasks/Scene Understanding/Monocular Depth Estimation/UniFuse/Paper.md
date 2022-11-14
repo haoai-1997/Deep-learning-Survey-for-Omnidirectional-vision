@@ -35,7 +35,3 @@
 <div align=center>
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/depth%20estimation/UniFuse_results.png" width="800" height="550">
 </div>
-
-- **Limitations (provided by the authors)**：
-
-(1) Propsoed method can fail if the tangent disparity estimates are incorrect, e.g. for large plain walls, saturated skies, or photorealistic wallpapers. (2) Authors also saw inconsistencies in the ground-truth depth maps, such as mirrors or missing lamps or chandeliers that are visible in the image.
