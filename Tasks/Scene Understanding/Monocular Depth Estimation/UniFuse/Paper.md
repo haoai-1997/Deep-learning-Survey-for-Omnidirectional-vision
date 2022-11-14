@@ -28,10 +28,10 @@
 </div>
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/depth%20estimation/UniFuse_fusion_module.png" width="800" height="335">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/depth%20estimation/UniFuse_fusion_module.png" width="800" height="300">
 </div>
 
 - **Experimental Results**：
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/depth%20estimation/UniFuse_results.png" width="800" height="550">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/depth%20estimation/UniFuse_results.png" width="800" height="450">
 </div>
