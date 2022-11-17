@@ -98,8 +98,7 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Depth360: Self-supervised Learning for Monocular Depth Estimation
 using Learnable Camera Distortion Model (2021)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/Depth360) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/Depth360/Code.md)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **VARIATIONAL DEPTH ESTIMATION ON HYPERSPHERE FOR PANORAMA
-**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/OmniVAE) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/OmniVAE/Code.md)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **VARIATIONAL DEPTH ESTIMATION ON HYPERSPHERE FOR PANORAMA**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/OmniVAE) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/OmniVAE/Code.md)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **SphereDepth: Panorama Depth Estimation from Spherical Domain (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SphereDepth) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SphereDepth/Code.md)
 
