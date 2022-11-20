@@ -17,6 +17,12 @@
 ### &hearts; [Background](Background)
 #### **Acquisition**
 An ideal 360&deg; camera can capture lights falling on the focal point from all directions, making the projection plane a whole spherical surface. In practice, most 360&deg; cameras can not achieve it, which excludes top and bottom regions due to dead angles
+
+### &hearts; [Convolution/Transformer Methods on ODIs](Backbone)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Learning SO(3) Equivariant Representations with Spherical CNNs**  [Paper](Backbone/SO(3)%20Equivariant%20Representations) [**Code**](https://github.com/daniilidis-group/spherical-cnn)
+
+
 ### &hearts; [Omnidirectional Vision Tasks](Tasks)
 
 &nbsp; &nbsp; &nbsp; &nbsp; :smiley: [***Image&Video Manipulation***](Tasks/Image%26Video%20Manipulation)
