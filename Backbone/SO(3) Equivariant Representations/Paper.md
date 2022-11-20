@@ -36,3 +36,11 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; The greatest advantage of this model is inherent equivariance to SO(3); authors focusd the experiments in problems that benefit from it; namely, shape classification and retrieval in arbitrary orientations, and shape alignment.
 
+<div align=center>
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SO(3)_classification_result.png" width="600" height="250">
+</div>
+
+<div align=center>
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SO(3)_retrieval_result.png" width="600" height="250">
+</div>
+
