@@ -49,6 +49,14 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 &nbsp; &nbsp; &nbsp; &nbsp; :smiley: [***Scene Understanding***](Tasks/Scene%20Understanding)
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Object Detection](Tasks/Scene%20Understanding/Object%20Detection)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Semantic Segmentation](Tasks/Scene%20Understanding/Semantic%20Segmentation)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Optical Flow Estimation](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Video Summraization](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation)
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Monocular Depth Estimation](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Distortion-Aware Convolutional Filters for Dense Prediction in Panoramic Images
@@ -101,6 +109,24 @@ using Learnable Camera Distortion Model (2021)**  [Paper](Tasks/Scene%20Understa
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Variational Depth Estimation on Hypersphere for Panorama (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/OmniVAE) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/OmniVAE/Code.md)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **SphereDepth: Panorama Depth Estimation from Spherical Domain (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SphereDepth) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SphereDepth/Code.md)
+
+&nbsp; &nbsp; &nbsp; &nbsp; :smiley: [***3D Vision***](Tasks/3D%20Vision)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [SLAM](Tasks/3D%20Vision/SLAM)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Stereo Matching](Tasks/3D%20Vision/Stereo%20Matching)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Room Layout estimation and Reconstruction](Tasks/3D%20Vision/Room%20Layout%20estimation%20and%20Reconstruction)
+
+&nbsp; &nbsp; &nbsp; &nbsp; :smiley: [***Human-Machine Interaction***](Tasks/Human-Machine%20Interaction)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Saliency Prediction](Tasks/Human-Machine%20Interaction/Saliency%20Prediction)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Visual Question Answering](Tasks/Human-Machine%20Interaction/Visual%20Question%20Answering)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Gaze Behavior](Tasks/Human-Machine%20Interaction/Gaze%20Behavior)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Audio-Visual Scene Understanding](Tasks/Human-Machine%20Interaction/Audio-Visual%20Scene%20Understanding)
 
 ### &hearts; [Novel Learning Strategies](Novel%Learning%20Strategies)
 ### &hearts; [Applications](Applications)
