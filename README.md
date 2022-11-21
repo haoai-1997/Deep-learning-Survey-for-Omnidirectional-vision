@@ -22,6 +22,7 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Learning SO(3) Equivariant Representations with Spherical CNNs**  [Paper](Backbone/SO(3)%20Equivariant%20Representations) [**Code**](https://github.com/daniilidis-group/spherical-cnn)
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Spherical CNNs**  [Paper](Backbone/Spherical%20CNNs) [**Code**](https://github.com/jonkhler/s2cnn)
 
 ### &hearts; [Omnidirectional Vision Tasks](Tasks)
 
