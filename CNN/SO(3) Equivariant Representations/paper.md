@@ -2,6 +2,8 @@
 
 - year: 2018
 
+- publication: ECCV
+
 - dataset： retrieval dataset **(SHREC’17)** and a classification dataset **(ModelNet40)**  (点云数据集)
 
 - abstract: Addressing the problem of 3D rotation equivariance in con-volutional  neural  networks. Authors model 3D data with multi-valued spherical functions and we propose a novel spherical convolutionalnetwork that implements exact convolutions on the sphere by realizingthem in the spherical harmonic domain. We apply a novel pooling on the spectral domain and our operations are independent of theunderlying spherical resolution throughout the network.
