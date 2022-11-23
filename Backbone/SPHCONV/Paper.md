@@ -36,5 +36,5 @@ See the following figure, the convolution kernel should transform accordingly. T
 </div>
 
 - **Limitations (provided by the authors)**：
-- 
-One limitation of SPHCONV is that it cannot handle very close objects that span a large FOV. Because the goal of SPHCONV is to reproduce the behavior of models trained on perspective images, the capability and performance of the model is bounded by the target model N<sup>p<sup>; Another limitation of SPHCONV is the resulting model size. Because it unties the kernel weights along θ, the model size grows linearly with the equirectangular image height. **The model size can easily grow to tens of gigabytes as the image resolution increases.**
+
+One limitation of SPHCONV is that it cannot handle very close objects that span a large FOV. Because the goal of SPHCONV is to reproduce the behavior of models trained on perspective images, the capability and performance of the model is bounded by the target model N<sub>p</sub>; Another limitation of SPHCONV is the resulting model size. Because it unties the kernel weights along θ, the model size grows linearly with the equirectangular image height. **The model size can easily grow to tens of gigabytes as the image resolution increases.**
