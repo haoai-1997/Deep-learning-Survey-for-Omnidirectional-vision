@@ -24,6 +24,8 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Spherical CNNs**  [Paper](Backbone/Spherical%20CNNs) [**Code**](https://github.com/jonkhler/s2cnn)
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Learning Spherical Convolution for Fast Features from 360&deg; Imagery**  [Paper](Backbone/SPHCONV) [**Code**](https://github.com/rbgirshick/py-faster-rcnn)
+
 ### &hearts; [Omnidirectional Vision Tasks](Tasks)
 
 &nbsp; &nbsp; &nbsp; &nbsp; :smiley: [***Image&Video Manipulation***](Tasks/Image%26Video%20Manipulation)
