@@ -35,13 +35,13 @@
 - **Experimental Results**：
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SphereNetresult.png" width="800" height="500">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SphereNetresult.png" width="800" height="280">
 </div>
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SphereNetresult1.png" width="800" height="500">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SphereNetresult1.png" width="800" height="280">
 </div>
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SphereNetresult2.png" width="800" height="500">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SphereNetresult2.png" width="800" height="280">
 </div>
 
 - **Analysis**：
