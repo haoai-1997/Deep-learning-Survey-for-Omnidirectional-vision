@@ -25,11 +25,11 @@
 
 - **Proposing Framework**:
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SphereNetstructure.png" width="800" height="250">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SphereNetstructure.png" width="800" height="400">
 </div>
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SphereNetstructure1.png" width="800" height="300">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SphereNetstructure1.png" width="800" height="400">
 </div>
 
 - **Experimental Results**：
