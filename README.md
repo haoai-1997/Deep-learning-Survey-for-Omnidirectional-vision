@@ -20,7 +20,7 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 ### &hearts; [Convolution/Transformer Methods on ODIs](Backbone)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Learning SO(3) Equivariant Representations with Spherical CNNs**  [Paper](Backbone/SO(3)%20Equivariant%20Representations) [**Code**](https://github.com/daniilidis-group/spherical-cnn)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Learning SO(3) Equivariant Representations with Spherical CNNs (Point cloud)**  [Paper](Backbone/SO(3)%20Equivariant%20Representations) [**Code**](https://github.com/daniilidis-group/spherical-cnn)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Spherical CNNs**  [Paper](Backbone/Spherical%20CNNs) [**Code**](https://github.com/jonkhler/s2cnn)
 
@@ -28,7 +28,7 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **SphereNet: Learning Spherical Representations for Detection and Classification in Omnidirectional Images**  [Paper](Backbone/SphereNet) [**Code**](https://github.com/BlueHorn07/sphereConv-pytorch)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Geometry Aware Convolutional Filters for Omnidirectional Images Representation**  [Paper](Backbone/GAfilters) [**Code**](https://github.com/RenataKh/GAfilters)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Geometry Aware Convolutional Filters for Omnidirectional Images Representation (Graph-based)**  [Paper](Backbone/GAfilters) [**Code**](https://github.com/RenataKh/GAfilters)
 
 
 ### &hearts; [Omnidirectional Vision Tasks](Tasks)
