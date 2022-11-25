@@ -28,6 +28,9 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **SphereNet: Learning Spherical Representations for Detection and Classification in Omnidirectional Images**  [Paper](Backbone/SphereNet) [**Code**](https://github.com/BlueHorn07/sphereConv-pytorch)
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Geometry Aware Convolutional Filters for Omnidirectional Images Representation**  [Paper](Backbone/GAfilters) [**Code**](https://github.com/RenataKh/GAfilters)
+
+
 ### &hearts; [Omnidirectional Vision Tasks](Tasks)
 
 &nbsp; &nbsp; &nbsp; &nbsp; :smiley: [***Image&Video Manipulation***](Tasks/Image%26Video%20Manipulation)
