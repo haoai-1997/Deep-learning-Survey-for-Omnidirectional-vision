@@ -3,7 +3,7 @@
 # &diams; Deep Learning for Omnidirectional Vision: A Survey and New Perspectives
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/main_page/survey.png" width="1000" height="420">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/main_page/survey.png" width="1000" height="450">
 </div>
 
 **Referenced paper** : [Deep Learning for Omnidirectional Vision: A Survey and New Perspectives](https://arxiv.org/abs/2205.10468)
@@ -29,6 +29,8 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **SphereNet: Learning Spherical Representations for Detection and Classification in Omnidirectional Images**  [Paper](Backbone/SphereNet) [**Code**](https://github.com/BlueHorn07/sphereConv-pytorch)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Geometry Aware Convolutional Filters for Omnidirectional Images Representation (Graph-based)**  [Paper](Backbone/GAfilters) [**Code**](https://github.com/RenataKh/GAfilters)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Kernel Transformer Networks for Compact Spherical Convolution**  [Paper](Backbone/KTN) [Code](Backbone/KTN/Code.md)
 
 
 ### &hearts; [Omnidirectional Vision Tasks](Tasks)
