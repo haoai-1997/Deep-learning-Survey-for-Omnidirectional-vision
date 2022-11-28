@@ -77,55 +77,55 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Monocular Depth Estimation](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Distortion-Aware Convolutional Filters for Dense Prediction in Panoramic Images
-(2018)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/DAC) [**Code**](https://github.com/tdsuper/Distortion-aware-CNNs)
+(2018)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/DAC/Paper.md) [**Code**](https://github.com/tdsuper/Distortion-aware-CNNs)
 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **OmniDepth: Dense Depth Estimation for Indoors Spherical Panoramas (2018)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/OmniDepth) [**Code**](https://github.com/meder411/OmniDepth-PyTorch)
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **OmniDepth: Dense Depth Estimation for Indoors Spherical Panoramas (2018)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/OmniDepth/Paper.md) [**Code**](https://github.com/meder411/OmniDepth-PyTorch)
  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Spherical View Synthesis for Self-Supervised 360-degree Depth Estimation (2019)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SphericalVS) [**Code**](https://github.com/VCL3D/SphericalViewSynthesis)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Spherical View Synthesis for Self-Supervised 360-degree Depth Estimation (2019)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SphericalVS/Paper.md) [**Code**](https://github.com/VCL3D/SphericalViewSynthesis)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Pano Popups: Indoor 3D Reconstruction with a Plane-Aware Network. (2019)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/PanoPopups) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/PanoPopups/Code.md)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Pano Popups: Indoor 3D Reconstruction with a Plane-Aware Network. (2019)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/PanoPopups/Paper.md) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/PanoPopups/Code.md)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **BiFuse: Monocular 360-degree Depth Estimation via Bi-Projection Fusion (2020)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/BiFuse) [**Code**](https://github.com/Yeh-yu-hsuan/BiFuse)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **BiFuse: Monocular 360-degree Depth Estimation via Bi-Projection Fusion (2020)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/BiFuse/Paper.md) [**Code**](https://github.com/Yeh-yu-hsuan/BiFuse)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Geometric Structure Based and Regularized Depth Estimation From 360-degree Indoor Imagery
- (2020)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/GSOMDE) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/GSOMDE/Code.md)
+ (2020)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/GSOMDE/Paper.md) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/GSOMDE/Code.md)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **PADENet: An Efficient and Robust Panoramic Monocular Depth Estimation Network for Outdoor Scenes (2020)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/PADENet) [Code](https://github.com/zzzkkkyyy/PADENet))
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **PADENet: An Efficient and Robust Panoramic Monocular Depth Estimation Network for Outdoor Scenes (2020)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/PADENet/Paper.md) [Code](https://github.com/zzzkkkyyy/PADENet))
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **UniFuse: Unidirectional Fusion for 360° Panorama Depth Estimation
- (2021)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/UniFuse) [**Code**](https://github.com/alibaba/UniFuse-Unidirectional-Fusion)
+ (2021)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/UniFuse/Paper.md) [**Code**](https://github.com/alibaba/UniFuse-Unidirectional-Fusion)
  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning (2021)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/IMDE) [**Code**](https://github.com/yuniw18/Joint_360depth)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning (2021)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/IMDE/Paper.md) [**Code**](https://github.com/yuniw18/Joint_360depth)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **SliceNet: deep dense depth estimation from a single indoor panorama using a slice-based representation (2021)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SliceNet) [**Code**](https://github.com/crs4/SliceNet)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **SliceNet: deep dense depth estimation from a single indoor panorama using a slice-based representation (2021)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SliceNet/Paper.md) [**Code**](https://github.com/crs4/SliceNet)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **PanoDepth: A Two-Stage Approach for Monocular Omnidirectional Depth Estimation
-(2021)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/PanoDepth) [**Code**](https://github.com/yuyanli0831/PanoDepth)
+(2021)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/PanoDepth/Paper.md) [**Code**](https://github.com/yuyanli0831/PanoDepth)
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Depth360: Self-supervised Learning for Monocular Depth Estimation
-using Learnable Camera Distortion Model (2021)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/Depth360) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/Depth360/Code.md)
+using Learnable Camera Distortion Model (2021)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/Depth360/Paper.md) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/Depth360/Code.md)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **OmniFusion : 360 Monocular Depth Estimation via Geometry-Aware Fusion (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/OmniFusion) [**Code**](https://github.com/yuyanli0831/OmniFusion)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **OmniFusion : 360 Monocular Depth Estimation via Geometry-Aware Fusion (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/OmniFusion/Paper.md) [**Code**](https://github.com/yuyanli0831/OmniFusion)
   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **360MonoDepth: High-Resolution 360° Monocular Depth Estimation (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/360MonoDepth) [**Code**](https://github.com/manurare/360monodepth)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **360MonoDepth: High-Resolution 360° Monocular Depth Estimation (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/360MonoDepth/Paper.md) [**Code**](https://github.com/manurare/360monodepth)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/ACDNet) [**Code**](https://github.com/zcq15/ACDNet)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/ACDNet/Paper.md) [**Code**](https://github.com/zcq15/ACDNet)
  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **GLPanoDepth: Global-to-Local Panoramic Depth Estimation (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/GLPanoDepth) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/GLPanoDepth/Code.md)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **GLPanoDepth: Global-to-Local Panoramic Depth Estimation (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/GLPanoDepth/Paper.md) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/GLPanoDepth/Code.md)
  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **360 Depth Estimation in the Wild: The Depth360 Dataset and the SegFuse Network (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SegFuse) [**Code**](https://github.com/HAL-lucination/segfuse)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **360 Depth Estimation in the Wild: The Depth360 Dataset and the SegFuse Network (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SegFuse/Paper.md) [**Code**](https://github.com/HAL-lucination/segfuse)
  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Deep Depth Estimation on 360° Images with a Double Quaternion Loss (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/DQL) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/DQL/Code.md)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Deep Depth Estimation on 360° Images with a Double Quaternion Loss (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/DQL/Paper.md) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/DQL/Code.md)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **PanoFormer: Panorama Transformer for Indoor 360 Depth Estimation (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/PanoPopups) [**Code**](https://github.com/zhijieshen-bjtu/PanoFormer)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **PanoFormer: Panorama Transformer for Indoor 360 Depth Estimation (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/PanoPopups/Paper.md) [**Code**](https://github.com/zhijieshen-bjtu/PanoFormer)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/M3PT) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/M3PT/Code.md)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/M3PT/Paper.md) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/M3PT/Code.md)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Self-supervised indoor 360- degree depth estimation via structural regularization (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SSIDE) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SSIDE/Code.md)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Self-supervised indoor 360- degree depth estimation via structural regularization (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SSIDE/Paper.md) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SSIDE/Code.md)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Variational Depth Estimation on Hypersphere for Panorama (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/OmniVAE) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/OmniVAE/Code.md)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Variational Depth Estimation on Hypersphere for Panorama (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/OmniVAE/Paper.md) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/OmniVAE/Code.md)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **SphereDepth: Panorama Depth Estimation from Spherical Domain (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SphereDepth) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SphereDepth/Code.md)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **SphereDepth: Panorama Depth Estimation from Spherical Domain (2022)**  [Paper](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SphereDepth/Paper.md) [Code](Tasks/Scene%20Understanding/Monocular%20Depth%20Estimation/SphereDepth/Code.md)
 
 &nbsp; &nbsp; &nbsp; &nbsp; :smiley: [***3D Vision***](Tasks/3D%20Vision)
 
