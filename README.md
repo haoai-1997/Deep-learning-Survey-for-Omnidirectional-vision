@@ -32,6 +32,7 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Kernel Transformer Networks for Compact Spherical Convolution**  [Paper](Backbone/KTN) [Code](Backbone/KTN/Code.md)
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **SpherePHD: Applying CNNs on a Spherical PolyHeDron Representation of 360&deg; Images**  [Paper](Backbone/SpherePHD) [**Code**](https://github.com/KAIST-vilab/SpherePHD_public) [**Reproduced Code**](https://github.com/keevin60907/SpherePHD)
 
 ### &hearts; [Omnidirectional Vision Tasks](Tasks)
 
