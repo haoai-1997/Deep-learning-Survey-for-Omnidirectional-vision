@@ -20,19 +20,19 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 ### &hearts; [Convolution/Transformer Methods on ODIs](Backbone)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Learning SO(3) Equivariant Representations with Spherical CNNs (Point cloud)**  [Paper](Backbone/SO(3)%20Equivariant%20Representations) [**Code**](https://github.com/daniilidis-group/spherical-cnn)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Learning SO(3) Equivariant Representations with Spherical CNNs (Point cloud)**  [Paper](Backbone/SO(3)%20Equivariant%20Representations/Paper.md) [**Code**](https://github.com/daniilidis-group/spherical-cnn)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Spherical CNNs**  [Paper](Backbone/Spherical%20CNNs) [**Code**](https://github.com/jonkhler/s2cnn)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Spherical CNNs**  [Paper](Backbone/Spherical%20CNNs/Paper.md) [**Code**](https://github.com/jonkhler/s2cnn)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Learning Spherical Convolution for Fast Features from 360&deg; Imagery**  [Paper](Backbone/SPHCONV) [**Code**](https://github.com/rbgirshick/py-faster-rcnn)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Learning Spherical Convolution for Fast Features from 360&deg; Imagery**  [Paper](Backbone/SPHCONV/Paper.md) [**Code**](https://github.com/rbgirshick/py-faster-rcnn)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **SphereNet: Learning Spherical Representations for Detection and Classification in Omnidirectional Images**  [Paper](Backbone/SphereNet) [**Code**](https://github.com/BlueHorn07/sphereConv-pytorch)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **SphereNet: Learning Spherical Representations for Detection and Classification in Omnidirectional Images**  [Paper](Backbone/SphereNet/Paper.md) [**Code**](https://github.com/BlueHorn07/sphereConv-pytorch)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Geometry Aware Convolutional Filters for Omnidirectional Images Representation (Graph-based)**  [Paper](Backbone/GAfilters) [**Code**](https://github.com/RenataKh/GAfilters)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Geometry Aware Convolutional Filters for Omnidirectional Images Representation (Graph-based)**  [Paper](Backbone/GAfilters/Paper.md) [**Code**](https://github.com/RenataKh/GAfilters)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Kernel Transformer Networks for Compact Spherical Convolution**  [Paper](Backbone/KTN) [Code](Backbone/KTN/Code.md)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Kernel Transformer Networks for Compact Spherical Convolution**  [Paper](Backbone/KTN/Paper.md) [Code](Backbone/KTN/Code.md)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **SpherePHD: Applying CNNs on a Spherical PolyHeDron Representation of 360&deg; Images**  [Paper](Backbone/SpherePHD) [**Code**](https://github.com/KAIST-vilab/SpherePHD_public) [**Reproduced Code**](https://github.com/keevin60907/SpherePHD)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **SpherePHD: Applying CNNs on a Spherical PolyHeDron Representation of 360&deg; Images**  [Paper](Backbone/SpherePHD/Paper.md) [**Code**](https://github.com/KAIST-vilab/SpherePHD_public) [**Reproduced Code**](https://github.com/keevin60907/SpherePHD)
 
 ### &hearts; [Omnidirectional Vision Tasks](Tasks)
 
