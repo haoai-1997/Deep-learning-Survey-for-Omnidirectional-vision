@@ -34,6 +34,8 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **SpherePHD: Applying CNNs on a Spherical PolyHeDron Representation of 360&deg; Images**  [Paper](Backbone/SpherePHD/Paper.md) [**Code**](https://github.com/KAIST-vilab/SpherePHD_public) [**Reproduced Code**](https://github.com/keevin60907/SpherePHD)
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Rotation Equivariant Graph Convolutional Network for Spherical Image Classification**  [Paper](Backbone/SGCN/Paper.md) [**Code**](https://github.com/QinYang12/SGCN)
+
 ### &hearts; [Omnidirectional Vision Tasks](Tasks)
 
 &nbsp; &nbsp; &nbsp; &nbsp; :smiley: [***Image&Video Manipulation***](Tasks/Image%26Video%20Manipulation)
