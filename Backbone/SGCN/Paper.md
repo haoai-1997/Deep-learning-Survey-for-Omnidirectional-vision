@@ -26,7 +26,7 @@ Existing methods to transfer CNNs from perspective to spherical images introduce
 - **Proposing Framework**:
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SGCNstructure.png" width="400"/>
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SGCNstructure.png" width="800"/>
 </div>
 
 <div align=center>
