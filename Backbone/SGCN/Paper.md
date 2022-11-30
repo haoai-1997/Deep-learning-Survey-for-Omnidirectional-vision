@@ -38,5 +38,5 @@ The resultant features [μ0, σ0, μ1, σ1, ..., μK , σK ] are invariant to th
 - **Experimental Results**：
 - 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SGCN_result.png" width="300",heigh = "600">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SGCN_result.png" width="300",heigh = "600"><img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SGCN_result1.png" width="300",heigh = "600">
 </div>
