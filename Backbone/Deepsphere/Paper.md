@@ -29,7 +29,7 @@
 The following figure shows the equivariance error for different parameter sets of DeepSphere for the HEALPix sampling
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/deepsphere.png" width="600" height="700">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/deepsphere.png" width="400" height="500">
 </div>
 
 - **Experimental Results**：
