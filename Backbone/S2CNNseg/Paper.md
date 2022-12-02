@@ -32,9 +32,9 @@ designed for the task of semantic segmentation for arbitrary Lie groups G. And b
 - **Experimental Results**：
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/S2CNNseg_results.png" width="400" height="400"><img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/S2CNNseg_results1.png" width="400" height="400">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/S2CNNseg_results.png" width="400" height="400"><img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/S2CNNseg_results1.png" width="400" height="400"><img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/S2CNNseg_results3.png" width="400" height="400">
 </div>
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/S2CNNseg_results2.png" width="400" height="300"><img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/S2CNNseg_results3.png" width="400" height="400">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/S2CNNseg_results2.png" width="800" height="400">
 </div>
