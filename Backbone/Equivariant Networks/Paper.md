@@ -22,14 +22,14 @@
 
 - **Proposing Framework**:
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Equivariantnet.png" width="400" height="600">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Equivariantnet.png" width="400" height="450">
 </div>
 
 
 - **Experimental Results**：
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Equivariantnet_result.png" width="300" height="250"><img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Equivariantnet_result1.png" width="300" height="300"><img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Equivariantnet_result2.png" width="300" height="300">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Equivariantnet_result.png" width="300" height="200"><img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Equivariantnet_result1.png" width="300" height="200"><img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/Equivariantnet_result2.png" width="300" height="200">
 </div>
 
 
