@@ -38,7 +38,7 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Deepsphere: A Graph-based Spherical CNN (2020)**  [Paper](Backbone/Deepsphere/Paper.md) [**Code**](https://github.com/deepsphere/deepsphere-pytorch)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Equivariant Networks for Pixelized Spheres (2021)**  [Paper](Backbone/Equivariant Networks/Paper.md) [**Code**](https://github.com/mshakerinava/Equivariant-Networks-for-Pixelized-Spheres)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Equivariant Networks for Pixelized Spheres (2021)**  [Paper](Backbone/Equivariant%20Networks/Paper.md) [**Code**](https://github.com/mshakerinava/Equivariant-Networks-for-Pixelized-Spheres)
 
 ### &hearts; [Omnidirectional Vision Tasks](Tasks)
 
