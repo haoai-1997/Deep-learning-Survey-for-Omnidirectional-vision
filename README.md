@@ -40,7 +40,7 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Equivariant Networks for Pixelized Spheres (2021)**  [Paper](Backbone/Equivariant%20Networks/Paper.md) [**Code**](https://github.com/mshakerinava/Equivariant-Networks-for-Pixelized-Spheres)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Equivariance versus Augmentation for Spherical Images (2022)**  [Paper](Backbone/S2CNNseg/Paper.md) [**Code**](https://github. com/JanEGerken/sem_seg_s2cnn)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Equivariance versus Augmentation for Spherical Images (2022)**  [Paper](Backbone/S2CNNseg/Paper.md) [**Code**](https://github.com/JanEGerken/sem_seg_s2cnn)
 
 ### &hearts; [Omnidirectional Vision Tasks](Tasks)
 
