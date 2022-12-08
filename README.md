@@ -44,6 +44,8 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Gauge Equivariant Convolutional Networks and the Icosahedral CNN (2019)**  [Paper](Backbone/Gauge_Equivariant_CNN/Paper.md) [**Code**](https://github.com/VLISLAB/360-DL-Survey/tree/main/Backbone/Gauge_Equivariant_CNNs)
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Spherical Transformer (2022)**  [Paper](Backbone/Spherical_Transformer/Paper.md) [Code](Backbone/Spherical_Transformer/Code.md)
+
 ### &hearts; [Omnidirectional Vision Tasks](Tasks)
 
 &nbsp; &nbsp; &nbsp; &nbsp; :smiley: [***Image&Video Manipulation***](Tasks/Image%26Video%20Manipulation)
