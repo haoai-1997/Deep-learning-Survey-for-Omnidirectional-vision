@@ -26,7 +26,7 @@
 - **Proposing Framework**:
 
 <div align=center>
-<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SphericalTransformer1.png" width="800" height="650">
+<img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SphericalTransformer1.png" width="600" height="500">
 </div>
 <div align=center>
 <img src="https://github.com/VLISLAB/360-DL-Survey/blob/main/Images/SphericalTransformer2.png" width="500" height="350">
