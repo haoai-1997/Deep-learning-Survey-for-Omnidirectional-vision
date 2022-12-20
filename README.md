@@ -20,7 +20,7 @@ An ideal 360&deg; camera can capture lights falling on the focal point from all 
 
 ### &hearts; [Convolution/Transformer Methods on ODIs](Backbone)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Learning Spherical Convolution for Fast Features from 360&deg; Imagery (2017)**  [Paper](Backbone/SPHCONV/Paper.md) [**Code**](https://github.com/rbgirshick/py-faster-rcnn)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Learning Spherical Convolution for Fast Features from 360&deg; Imagery (2017)**  [Paper](Backbone/SPHCONV/Paper.md) [**Code**](https://github.com/sammy-su/Spherical-Convolution)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - **Learning SO(3) Equivariant Representations with Spherical CNNs (Point cloud) (2018)**  [Paper](Backbone/SO(3)%20Equivariant%20Representations/Paper.md) [**Code**](https://github.com/daniilidis-group/spherical-cnn)
 
